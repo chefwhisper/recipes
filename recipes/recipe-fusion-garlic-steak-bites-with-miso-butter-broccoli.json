@@ -1,0 +1,222 @@
+{
+  "id": "recipe-fusion-garlic-steak-bites-with-miso-butter-broccoli",
+  "title": "Recipe Fusion: Garlic Steak Bites with Miso Butter Broccoli",
+  "metadata": {
+    "imageUrl": "images/recipe-fusion-garlic-steak-bites-with-miso-butter-broccoli.jpg",
+    "yields": "4 servings",
+    "totalTime": "35 minutes",
+    "prepTime": "15 minutes",
+    "activeTime": "15 minutes",
+    "handsOffTime": "5 minutes"
+  },
+  "preparationSteps": [
+    {
+      "id": "prep-step-1",
+      "title": "Prep Step 1",
+      "mainStep": "Prepare the marinate for the meat. In a large bowl add",
+      "bullets": [
+        "¼ cup olive oil",
+        "3 tablespoons soy sauce"
+      ]
+    },
+    {
+      "id": "prep-step-2",
+      "title": "Prep Step 2",
+      "mainStep": "Prepare the meat",
+      "bullets": [
+        "Trim excess fat from  1½ pounds sirloin steak and cut into 1-inch pieces",
+        "Add the cut steak pieces to the bowl with olive oil and soy sauce",
+        "Toss the steak to coat",
+        "Let it marinate on the counter"
+      ]
+    },
+    {
+      "id": "prep-step-3",
+      "title": "Prep Step 3",
+      "mainStep": "Preheat the oven to 425°F.",
+      "bullets": []
+    },
+    {
+      "id": "prep-step-4",
+      "title": "Prep Step 4",
+      "mainStep": "Prepare the broccoli",
+      "bullets": [
+        "Cut broccoli florets and tender stems into bite-size pieces (about 6-8 cups)",
+        "Place broccoli pieces on a large sheet pan",
+        "Drizzle 2 tablespoons olive oil and ¼ teaspoon kosher salt",
+        "Toss to coat",
+        "Spread broccoli in a single layer"
+      ]
+    },
+    {
+      "id": "prep-step-5",
+      "title": "Prep Step 5",
+      "mainStep": "Prepare the Miso-Butter mixture",
+      "bullets": [
+        "In a small bowl, place 1 tablespoon room-temperature butter and 2 teaspoons white miso",
+        "Use a fork to mash the butter and miso together in the small bowl",
+        "Cut 1 lime in half and set aside"
+      ]
+    },
+    {
+      "id": "prep-step-6",
+      "title": "Prep Step 6",
+      "mainStep": "Prepare the other ingredients for the meat, they will be added together",
+      "bullets": [
+        "1 tablespoon unsalted butter",
+        "Mince 2 large garlic cloves"
+      ]
+    },
+    {
+      "id": "prep-step-7",
+      "title": "Prep Step 7",
+      "mainStep": "Gather and prepare the finish ingredients for the meat",
+      "bullets": [
+        "Chop the parsley leaves and tender stems",
+        "Flaky salt",
+        "Freshly cracked black pepper"
+      ]
+    }
+  ],
+  "cookingSteps": [
+    {
+      "id": "cooking-step-1",
+      "title": "Cooking Step 1",
+      "mainStep": "Preheat the oven to 425°F. (in case you missed this step in the preparation)",
+      "bullets": [
+        "Place the large sheet pan with broccoli in the preheated oven",
+        "Roast broccoli until the stalks are easily pierced with a fork (15 minutes)",
+        "Wait 5 minutes and start the second step (5 minutes)"
+      ]
+    },
+    {
+      "id": "cooking-step-2",
+      "title": "Cooking Step 2",
+      "mainStep": "Heat a large 12-inch cast-iron or heavyweight skillet over medium-high heat until very hot (2 minutes)",
+      "bullets": [
+        "Using a slotted spoon, add the steak bites in a single layer, shaking off excess marinade",
+        "Cook steak until browned, turn steak pieces with tongs when they easily release (6 minutes)"
+      ]
+    },
+    {
+      "id": "cooking-step-3",
+      "title": "Cooking Step 3",
+      "mainStep": "Turn off heat for the meat",
+      "bullets": [
+        "Add the 1 Tablespoon of butter and 2 large garlic cloves, minced",
+        "Push steak around to coat and mix everything together"
+      ]
+    },
+    {
+      "id": "cooking-step-4",
+      "title": "Cooking Step 4",
+      "mainStep": "Plate and serve the meat",
+      "bullets": [
+        "Transfer meat to a serving plate",
+        "Drizzle meat with any remaining sauce from the pan",
+        "Top with chopped parsley, a sprinkle of flaky salt, and freshly cracked black pepper"
+      ]
+    },
+    {
+      "id": "cooking-step-5",
+      "title": "Cooking Step 5",
+      "mainStep": "When broccoli 15 minute timer is up, remove broccoli from oven",
+      "bullets": [
+        "Immediately add the miso-butter mixture",
+        "Squeeze half the lime juice over the broccoli and stir everything together, scraping up any brown bits from the bottom of the sheet pan.",
+        "Taste and season with additional salt and remaining lime juice as needed",
+        "Serve warm or at room temperature"
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "quantity": "¼ cup and 2 Tablespoons",
+      "category": "Pantry"
+    },
+    {
+      "name": "Soy sauce",
+      "quantity": "3 Tablespoons",
+      "category": "Pantry"
+    },
+    {
+      "name": "Sirloin or flank steak and cut into 1-inch pieces",
+      "quantity": "1½ pounds",
+      "category": "Meat"
+    },
+    {
+      "name": "1 large head broccoli",
+      "quantity": "about 1 pound",
+      "category": "Produce"
+    },
+    {
+      "name": "Kosher salt",
+      "quantity": "¼ teaspoon",
+      "category": "Pantry"
+    },
+    {
+      "name": "Spread broccoli in a single layer",
+      "quantity": "to taste",
+      "category": "Produce"
+    },
+    {
+      "name": "Room-temperature unsalted butter",
+      "quantity": "2 Tablespoons",
+      "category": "Dairy"
+    },
+    {
+      "name": "White miso",
+      "quantity": "2 teaspoons",
+      "category": "Pantry"
+    },
+    {
+      "name": "Lime",
+      "quantity": "1",
+      "category": "Produce"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "quantity": "2 large",
+      "category": "Produce"
+    },
+    {
+      "name": "Of fresh parsley leaves and tender stems, chopped",
+      "quantity": "2 Tablespoons",
+      "category": "Produce"
+    },
+    {
+      "name": "Flaky salt",
+      "quantity": "to taste",
+      "category": "Pantry"
+    },
+    {
+      "name": "Freshly cracked black pepper",
+      "quantity": "to taste",
+      "category": "Pantry"
+    }
+  ],
+  "groceryList": {
+    "Pantry": [
+      "¼ cup and 2 Tablespoons Olive oil",
+      "3 Tablespoons Soy sauce",
+      "¼ teaspoon Kosher salt",
+      "2 teaspoons White miso",
+      "to taste Flaky salt",
+      "to taste Freshly cracked black pepper"
+    ],
+    "Meat": [
+      "1½ pounds Sirloin or flank steak and cut into 1-inch pieces"
+    ],
+    "Produce": [
+      "about 1 pound 1 large head broccoli",
+      "to taste Spread broccoli in a single layer",
+      "1 Lime",
+      "2 large Garlic cloves, minced",
+      "2 Tablespoons Of fresh parsley leaves and tender stems, chopped"
+    ],
+    "Dairy": [
+      "2 Tablespoons Room-temperature unsalted butter"
+    ]
+  }
+}

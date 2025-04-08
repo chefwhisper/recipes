@@ -1,0 +1,305 @@
+{
+    "id": "fiesta-chili",
+    "title": "Fiesta Chili",
+    "metadata": {
+      "imageUrl": "images/fiesta-chili.jpg",
+      "yields": "4 servings",
+      "totalTime": "50 - 65 minutes",
+      "prepTime": "15 minutes",
+      "activeTime": "15 - 20 minutes",
+      "handsOffTime": "20 - 30 minutes"
+    },
+    "preparationSteps": [
+      {
+        "id": "prep-step-1",
+        "title": "Prep Step 1",
+        "mainStep": "Prepare the first part of the cooking ingredients, they will be added in stages",
+        "bullets": [
+          "¼ cup extra-virgin olive oil",
+          "1 large yellow or red onion, finely chopped",
+          "4 garlic cloves, finely chopped",
+          "1 pound ground beef (or pork, turkey, chicken)",
+          "Salt and black pepper"
+        ]
+      },
+      {
+        "id": "prep-step-2",
+        "title": "Prep Step 2",
+        "mainStep": "Make the Seasoning Mix. In a small bowl mix the following ingredients",
+        "bullets": [
+          "1 Tablespoon chili powder (if you want more spicy, use 2 Tablespoons)",
+          "2 teaspoons ground cumin",
+          "1 teaspoon smoked paprika",
+          "¼ teaspoon garlic powder",
+          "¼ teaspoon onion powder",
+          "¼ teaspoon dried oregano"
+        ]
+      },
+      {
+        "id": "prep-step-3",
+        "title": "Prep Step 3",
+        "mainStep": "Prepare and gather the second part of the cooking ingredients; they will all be added together",
+        "bullets": [
+          "1 Tablespoon tomato paste",
+          "1 jalapeño, finely chopped (if you want more spicy, use 2 jalapenos)",
+          "2 cans (4 oz each) diced green chiles",
+          "Drain and rinse 1 can (15 oz) pinto beans",
+          "Drain and rinse 1 can (15 oz) black beans",
+          "2 cans (15 oz each) diced fire-roasted tomatoes",
+          "2½ cups low-sodium chicken or vegetable broth (or water)"
+        ]
+      },
+      {
+        "id": "prep-step-4",
+        "title": "Prep Step 4",
+        "mainStep": "Prepare Final Ingredients",
+        "bullets": [
+          "2 cups frozen corn",
+          "Handful of cilantro leaves and tender stems, roughly chopped"
+        ]
+      },
+      {
+        "id": "prep-step-5",
+        "title": "Prep Step 5",
+        "mainStep": "Gather Optional Toppings (2 minutes)",
+        "bullets": [
+          "Chopped avocado",
+          "Pickled red onion",
+          "Grated Cheddar",
+          "Pickled jalapeños",
+          "Sour cream",
+          "Tortilla chips",
+          "Lime wedges",
+          "Chopped Cilantro"
+        ]
+      }
+    ],
+    "cookingSteps": [
+      {
+        "id": "cooking-step-1",
+        "title": "Cooking Step 1",
+        "mainStep": "Heat a large pot over medium heat",
+        "bullets": [
+          "Add and heat olive oil (1 minute)",
+          "Add onion and cook until golden, stirring occasionally (5-8 minutes)",
+          "Add garlic and cook until fragrant (30 seconds)"
+        ]
+      },
+      {
+        "id": "cooking-step-2",
+        "title": "Cooking Step 2",
+        "mainStep": "Keep temperature at medium heat",
+        "bullets": [
+          "Add ground meat, break it up with a spoon",
+          "Season with salt and pepper",
+          "Cook until brown (5 minutes)",
+          "Add seasoning mix and stir (1 minute)",
+          "Add the second batch of the cooking ingredients: tomato paste, jalapenos, drained beans, tomatoes, and chicken broth"
+        ]
+      },
+      {
+        "id": "cooking-step-3",
+        "title": "Cooking Step 3",
+        "mainStep": "Bring to a boil, then reduce to medium-low and simmer covered (20 minutes)",
+        "bullets": []
+      },
+      {
+        "id": "cooking-step-4",
+        "title": "Cooking Step 4",
+        "mainStep": "Add corn and cilantro, cover, and simmer until corn is heated through (10 minutes)",
+        "bullets": [
+          "Taste and adjust seasonings as needed"
+        ]
+      },
+      {
+        "id": "cooking-step-5",
+        "title": "Cooking Step 5",
+        "mainStep": "Serving: Ladle into bowls and add desired toppings",
+        "bullets": []
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Extra-virgin olive oil",
+        "quantity": "¼ cup",
+        "category": "Pantry"
+      },
+      {
+        "name": "Yellow or red onion, finely chopped",
+        "quantity": "1 large",
+        "category": "Produce"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste",
+        "category": "Pantry"
+      },
+      {
+        "name": "Black pepper",
+        "quantity": "to taste",
+        "category": "Pantry"
+      },
+      {
+        "name": "Garlic cloves, finely chopped",
+        "quantity": "4",
+        "category": "Produce"
+      },
+      {
+        "name": "Ground beef",
+        "quantity": "1 pound",
+        "category": "Meat"
+      },
+      {
+        "name": "1 jalapeño, finely chopped",
+        "quantity": "if you want more spicy, use 2",
+        "category": "Pantry"
+      },
+      {
+        "name": "Tomato paste",
+        "quantity": "1 Tablespoon",
+        "category": "Pantry"
+      },
+      {
+        "name": "Pinto Beans",
+        "quantity": "1 can (15-ounce)",
+        "category": "Canned Goods"
+      },
+      {
+        "name": "Black beans",
+        "quantity": "1 can (15-ounce)",
+        "category": "Canned Goods"
+      },
+      {
+        "name": "Fire-roasted tomatoes with green chiles",
+        "quantity": "2 cans (15-ounce each)",
+        "category": "Canned Goods"
+      },
+      {
+        "name": "Chicken Broth",
+        "quantity": "2 cans",
+        "category": "Canned Goods"
+      },
+      {
+        "name": "Frozen corn",
+        "quantity": "2 cups",
+        "category": "Frozen"
+      },
+      {
+        "name": "Cilantroleaves and tender stems, roughly chopped",
+        "quantity": "2 Tablespoons",
+        "category": "Produce"
+      },
+      {
+        "name": "Chili powder",
+        "quantity": "1 Tablespoons",
+        "category": "Pantry"
+      },
+      {
+        "name": "Ground cumin",
+        "quantity": "2 teaspoons",
+        "category": "Pantry"
+      },
+      {
+        "name": "Smoked paprika",
+        "quantity": "1 teaspoon",
+        "category": "Pantry"
+      },
+      {
+        "name": "Garlic powder",
+        "quantity": "¼ teaspoon",
+        "category": "Produce"
+      },
+      {
+        "name": "Onion powder",
+        "quantity": "¼ teaspoon",
+        "category": "Produce"
+      },
+      {
+        "name": "Dried oregano",
+        "quantity": "¼ teaspoon",
+        "category": "Pantry"
+      },
+      {
+        "name": "Chopped avocado",
+        "quantity": "to taste",
+        "category": "Pantry"
+      },
+      {
+        "name": "Pickled red onion",
+        "quantity": "to taste",
+        "category": "Produce"
+      },
+      {
+        "name": "Grated Cheddar",
+        "quantity": "to taste",
+        "category": "Pantry"
+      },
+      {
+        "name": "Pickled hot jalapeños",
+        "quantity": "1 can",
+        "category": "Canned Goods"
+      },
+      {
+        "name": "Sour cream",
+        "quantity": "to taste",
+        "category": "Dairy"
+      },
+      {
+        "name": "Tortilla chips",
+        "quantity": "to taste",
+        "category": "Pantry"
+      },
+      {
+        "name": "Lime wedges",
+        "quantity": "to taste",
+        "category": "Produce"
+      },
+      {
+        "name": "Chopped Parsley",
+        "quantity": "to taste",
+        "category": "Produce"
+      }
+    ],
+    "groceryList": {
+      "Pantry": [
+        "¼ cup Extra-virgin olive oil",
+        "to taste Salt",
+        "to taste Black pepper",
+        "if you want more spicy, use 2 1 jalapeño, finely chopped",
+        "1 Tablespoon Tomato paste",
+        "1 Tablespoons Chili powder",
+        "2 teaspoons Ground cumin",
+        "1 teaspoon Smoked paprika",
+        "¼ teaspoon Dried oregano",
+        "to taste Chopped avocado",
+        "to taste Grated Cheddar",
+        "to taste Tortilla chips"
+      ],
+      "Produce": [
+        "1 large Yellow or red onion, finely chopped",
+        "4 Garlic cloves, finely chopped",
+        "2 Tablespoons Cilantroleaves and tender stems, roughly chopped",
+        "¼ teaspoon Garlic powder",
+        "¼ teaspoon Onion powder",
+        "to taste Pickled red onion",
+        "to taste Lime wedges",
+        "to taste Chopped Parsley"
+      ],
+      "Meat": [
+        "1 pound Ground beef"
+      ],
+      "Canned Goods": [
+        "1 can (15-ounce) Pinto Beans",
+        "1 can (15-ounce) Black beans",
+        "2 cans (15-ounce each) Fire-roasted tomatoes with green chiles",
+        "2 cans Chicken Broth",
+        "1 can Pickled hot jalapeños"
+      ],
+      "Frozen": [
+        "2 cups Frozen corn"
+      ],
+      "Dairy": [
+        "to taste Sour cream"
+      ]
+    }
+  }

@@ -1,0 +1,189 @@
+{
+    "id": "caramelized-eggplant-pasta",
+    "title": "Caramelized Eggplant Pasta",
+    "metadata": {
+      "imageUrl": "images/caramelized-eggplant-pasta.jpg",
+      "yields": "4 servings",
+      "totalTime": "60 minutes",
+      "prepTime": "10 minutes",
+      "activeTime": "25 minutes",
+      "handsOffTime": "25 minutes"
+    },
+    "preparationSteps": [
+      {
+        "id": "prep-step-1",
+        "title": "Prep Step 1",
+        "mainStep": "Prepare ingredients for the eggplant preparation",
+        "bullets": [
+          "Preheat oven to 400o",
+          "Cut unpeeled 2 medium eggplants (~2 lbs) into 1 inch cubes",
+          "In a baking dish, combine the eggplants, ½ cup of olive oil, ½ teaspoon of red pepper flakes, and 1 teaspoon of salt"
+        ]
+      },
+      {
+        "id": "prep-step-2",
+        "title": "Prep Step 2",
+        "mainStep": "Gather and prepare ingredients for the sauce, they will be added in stages",
+        "bullets": [
+          "2 Tablespoons of Olive Oil",
+          "4 garlic cloves, chopped",
+          "1 teaspoon dried oregano (or 1 Tablespoon of fresh oregano)",
+          "2 teaspoons of salt",
+          "Open 1 (28-ounce) can whole peeled tomatoes with their juices",
+          "1 pound long pasta (spaghetti, linguine, or bucatini)"
+        ]
+      },
+      {
+        "id": "prep-step-3",
+        "title": "Prep Step 3",
+        "mainStep": "Prepare ingredients for finish",
+        "bullets": [
+          "½ cup chopped basil",
+          "½ cup grated ricotta salata (or pecorino Romano)"
+        ]
+      }
+    ],
+    "cookingSteps": [
+      {
+        "id": "cooking-step-1",
+        "title": "Cooking Step 1",
+        "mainStep": "Preheat oven to 400o",
+        "bullets": [
+          "Bake eggplant (20 minutes)",
+          "After 20 minutes, toss the eggplant around",
+          "Bake eggplant until it's custard-like (20 minutes)",
+          "Start step 2, after you have tossed the eggplant around"
+        ]
+      },
+      {
+        "id": "cooking-step-2",
+        "title": "Cooking Step 2",
+        "mainStep": "Bring a large pot to a boil over high heat",
+        "bullets": [
+          "Add salt to the water",
+          "Once boiling, add pasta and cook pasta 2 minutes less than the instructions in the box (9 minutes)",
+          "Start step 3 while water is boiling"
+        ]
+      },
+      {
+        "id": "cooking-step-3",
+        "title": "Cooking Step 3",
+        "mainStep": "Heat a large sauce pot over medium heat",
+        "bullets": [
+          "Add and heat 2 Tablespoons of olive oil (1 minute)",
+          "Add the 4 garlic cloves, chopped and 1 teaspoon dried oregano and cook garlic until fragrant (1 minute)",
+          "Add the 1 can of tomatoes, salt and pepper and break the tomatoes with a wooden spoon"
+        ]
+      },
+      {
+        "id": "cooking-step-4",
+        "title": "Cooking Step 4",
+        "mainStep": "Reduce large sauce pot heat to low heat",
+        "bullets": [
+          "Cook the sauce, stirring occasionally (15 minutes)",
+          "Once the pasta timer goes off, drain the pasta",
+          "Once the 15 minute sauce timer is done, turn off the heat and wait for the eggplant to be done"
+        ]
+      },
+      {
+        "id": "cooking-step-5",
+        "title": "Cooking Step 5",
+        "mainStep": "Once the 2nd 20 minute eggplant timer is done, mix the eggplant into the sauce",
+        "bullets": [
+          "Turn heat to medium heat, add the drained pasta to the sauce with eggplants, and stir",
+          "Cook pasta until the pasta is al dente (3 minutes)"
+        ]
+      },
+      {
+        "id": "cooking-step-6",
+        "title": "Cooking Step 6",
+        "mainStep": "Serving:",
+        "bullets": [
+          "Taste and adjust the seasoning",
+          "Top with the parsley or basil and the 1/2 cup of grated cheese and serve"
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Eggplant",
+        "quantity": "2 (~2 lbs)",
+        "category": "Pantry"
+      },
+      {
+        "name": "Olive oil",
+        "quantity": "½ cup",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Pepper",
+        "quantity": "to taste",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Garlic cloves, chopped",
+        "quantity": "4",
+        "category": "Produce"
+      },
+      {
+        "name": "Red pepper chilli flake",
+        "quantity": "to taste",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Can whole peeled tomatoes with their juices",
+        "quantity": "1 28-ounce",
+        "category": "Canned Goods"
+      },
+      {
+        "name": "Dried oregano, or 1 tablespoon fresh oregano",
+        "quantity": "1 teaspoon",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Spaguetti",
+        "quantity": "1 pound",
+        "category": "Pantry"
+      },
+      {
+        "name": "Chopped basil",
+        "quantity": "½ cup",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Grated ricotta salata or Pecorino Romano",
+        "quantity": "½ cup",
+        "category": "Dairy"
+      }
+    ],
+    "groceryList": {
+      "Pantry": [
+        "2 (~2 lbs) Eggplant",
+        "1 pound Spaguetti"
+      ],
+      "Condiments & Sauces": [
+        "½ cup Olive oil"
+      ],
+      "Spices & Herbs": [
+        "to taste Salt",
+        "to taste Pepper",
+        "to taste Red pepper chilli flake",
+        "1 teaspoon Dried oregano, or 1 tablespoon fresh oregano",
+        "½ cup Chopped basil"
+      ],
+      "Produce": [
+        "4 Garlic cloves, chopped"
+      ],
+      "Canned Goods": [
+        "1 28-ounce Can whole peeled tomatoes with their juices"
+      ],
+      "Dairy": [
+        "½ cup Grated ricotta salata or Pecorino Romano"
+      ]
+    }
+  }

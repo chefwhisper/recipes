@@ -1,0 +1,260 @@
+{
+    "id": "oven-baked-sausage-cheese-pasta",
+    "title": "Oven-Baked Sausage & Cheese Pasta",
+    "metadata": {
+      "imageUrl": "images/oven-baked-sausage-cheese-pasta.jpg",
+      "yields": "4 servings",
+      "totalTime": "60 minutes",
+      "prepTime": "10 minutes",
+      "activeTime": "15 minutes",
+      "handsOffTime": "30 minutes"
+    },
+    "preparationSteps": [
+      {
+        "id": "prep-step-1",
+        "title": "Prep Step 1",
+        "mainStep": "Prepare the first part of the cooking Ingredients, they will be added in stages",
+        "bullets": [
+          "Measure 3 tablespoons extra-virgin olive oil",
+          "1 pound bulk hot or mild Italian sausage"
+        ]
+      },
+      {
+        "id": "prep-step-2",
+        "title": "Prep Step 2",
+        "mainStep": "Prepare and gather the second part of the cooking ingredients; in a small bowl, they will all be added together",
+        "bullets": [
+          "Mince 4 garlic cloves",
+          "Crush ½ teaspoon fennel seeds coarsely",
+          "1 teaspoon dried oregano"
+        ]
+      },
+      {
+        "id": "prep-step-3",
+        "title": "Prep Step 3",
+        "mainStep": "Prepare and gather the third part of the cooking ingredients, they will be added together",
+        "bullets": [
+          "Open 1 (28-ounce) can whole peeled tomatoes",
+          "Open 1 (14-ounce) can crushed tomatoes",
+          "2 bay leaves",
+          "12 ounces dried pasta (small shells, farfalle, or other shaped pasta)",
+          "1 teaspoon of salt",
+          "1 cup of water"
+        ]
+      },
+      {
+        "id": "prep-step-4",
+        "title": "Prep Step 4",
+        "mainStep": "Prepare and gather the fourth part of the cooking ingredients",
+        "bullets": [
+          "Cut 8 ounces fresh mozzarella into bite-size pieces",
+          "6 ounces (about ¾ cup) whole-milk ricotta",
+          "⅓ cup grated Parmesan"
+        ]
+      },
+      {
+        "id": "prep-step-5",
+        "title": "Prep Step 5",
+        "mainStep": "Prepare ingredients for serving",
+        "bullets": [
+          "¼ cup basil leaves for garnish",
+          "Black pepper",
+          "Red Pepper Flakes"
+        ]
+      }
+    ],
+    "cookingSteps": [
+      {
+        "id": "cooking-step-1",
+        "title": "Cooking Step 1",
+        "mainStep": "Preheat oven to 425°F",
+        "bullets": []
+      },
+      {
+        "id": "cooking-step-2",
+        "title": "Cooking Step 2",
+        "mainStep": "Heat a 12-inch oven-proof skillet over medium-high heat",
+        "bullets": [
+          "Add and heat the 3 Tablespoons of olive oil (1 minute)",
+          "Add 1 pound of Italian Sausage, and break into small pieces while cooking",
+          "Cook sausage until starting to brown (5 minutes)"
+        ]
+      },
+      {
+        "id": "cooking-step-3",
+        "title": "Cooking Step 3",
+        "mainStep": "Reduce temperature to medium heat",
+        "bullets": [
+          "Add the small bowl with the 4 garlic cloves, minced, ½ tsp fennel seeds, coarsely crushed, and 1 tsp dried oregano",
+          "Cook garlic until fragrant (1 minutes)"
+        ]
+      },
+      {
+        "id": "cooking-step-4",
+        "title": "Cooking Step 4",
+        "mainStep": "Keep temperature at medium heat",
+        "bullets": [
+          "Add the can of whole tomatoes with their juice, breaking them up with a spoon",
+          "Add the can of crushed tomatoes, 2 bay leaves, and 2 teaspoons kosher salt, and bring to a simmer"
+        ]
+      },
+      {
+        "id": "cooking-step-5",
+        "title": "Cooking Step 5",
+        "mainStep": "Reduce temperature to low",
+        "bullets": [
+          "Simmer sauce until thickened slightly (10 minutes)",
+          "Stir in the 12 oz of pasta, and 1 cup of water",
+          "Bring to a simmer",
+          "Cook pasta, stirring frequently to prevent the pasta from sticking (4 minutes)"
+        ]
+      },
+      {
+        "id": "cooking-step-6",
+        "title": "Cooking Step 6",
+        "mainStep": "Remove skillet from heat",
+        "bullets": [
+          "Remove the bay leaves",
+          "Fold in about one-third of the mozzarella",
+          "Top pasta with remaining two-thirds of the mozzarella",
+          "Add dollops of riccota across the top - 6 ounces (about ¾ cup)",
+          "Sprinkle the 1/3 cup of parmesan cheese on top"
+        ]
+      },
+      {
+        "id": "cooking-step-7",
+        "title": "Cooking Step 7",
+        "mainStep": "Transfer skillet to preheated oven @425°F",
+        "bullets": [
+          "Bake pasta until it is tender and cheese is bubbly (~20 minutes)"
+        ]
+      },
+      {
+        "id": "cooking-step-8",
+        "title": "Cooking Step 8",
+        "mainStep": "Finish and Serving",
+        "bullets": [
+          "Remove from oven",
+          "Top with fresh basil leaves",
+          "Sprinkle freshly ground black pepper and red-pepper flakes (optional)",
+          "Serve directly from the skillet"
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Tbs extra-virgin olive oil",
+        "quantity": "3",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Bulk hot or mild Italian sausage (pork, chicken or turkey)",
+        "quantity": "1 lb",
+        "category": "Meat"
+      },
+      {
+        "name": "Garlic cloves, minced",
+        "quantity": "4",
+        "category": "Produce"
+      },
+      {
+        "name": "Fennel seeds, coarsely crushed",
+        "quantity": "½ tsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Dried oregano",
+        "quantity": "1 tsp",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Red-pepper flakes",
+        "quantity": "optional",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Can whole peeled tomatoes with their juices",
+        "quantity": "1 28-ounce",
+        "category": "Canned Goods"
+      },
+      {
+        "name": "Can crushed or strained tomatoes",
+        "quantity": "1 14-ounce",
+        "category": "Canned Goods"
+      },
+      {
+        "name": "Bay leaves",
+        "quantity": "2",
+        "category": "Pantry"
+      },
+      {
+        "name": "Kosher salt",
+        "quantity": "to taste",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Dried pasta, such as small shells, farfalle or other shaped pasta",
+        "quantity": "12 ounce",
+        "category": "Grains"
+      },
+      {
+        "name": "Fresh mozzarella, torn into bite-size pieces",
+        "quantity": "8 ounces",
+        "category": "Pantry"
+      },
+      {
+        "name": "6 ounces whole-milk ricotta",
+        "quantity": "about ¾ cup",
+        "category": "Dairy"
+      },
+      {
+        "name": "Grated Parmesan",
+        "quantity": "⅓ cup",
+        "category": "Pantry"
+      },
+      {
+        "name": "Basil leaves",
+        "quantity": "¼ cup",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Black pepper",
+        "quantity": "to taste",
+        "category": "Spices & Herbs"
+      }
+    ],
+    "groceryList": {
+      "Condiments & Sauces": [
+        "3 Tbs extra-virgin olive oil"
+      ],
+      "Meat": [
+        "1 lb Bulk hot or mild Italian sausage (pork, chicken or turkey)"
+      ],
+      "Produce": [
+        "4 Garlic cloves, minced"
+      ],
+      "Pantry": [
+        "½ tsp Fennel seeds, coarsely crushed",
+        "2 Bay leaves",
+        "8 ounces Fresh mozzarella, torn into bite-size pieces",
+        "⅓ cup Grated Parmesan"
+      ],
+      "Spices & Herbs": [
+        "1 tsp Dried oregano",
+        "optional Red-pepper flakes",
+        "to taste Kosher salt",
+        "¼ cup Basil leaves",
+        "to taste Black pepper"
+      ],
+      "Canned Goods": [
+        "1 28-ounce Can whole peeled tomatoes with their juices",
+        "1 14-ounce Can crushed or strained tomatoes"
+      ],
+      "Grains": [
+        "12 ounce Dried pasta, such as small shells, farfalle or other shaped pasta"
+      ],
+      "Dairy": [
+        "about ¾ cup 6 ounces whole-milk ricotta"
+      ]
+    }
+  }

@@ -1,0 +1,226 @@
+{
+    "id": "chicken-turmeric-soup",
+    "title": "Chicken Turmeric Soup",
+    "metadata": {
+      "imageUrl": "images/chicken-turmeric-soup.jpg",
+      "yields": "4 servings",
+      "totalTime": "50-65 minutes",
+      "prepTime": "20 minutes",
+      "activeTime": "10-15 minutes",
+      "handsOffTime": "20-30 minutes"
+    },
+    "preparationSteps": [
+      {
+        "id": "prep-step-1",
+        "title": "Prep Step 1",
+        "mainStep": "Measure 2 Tablespoons of Olive Oil",
+        "bullets": []
+      },
+      {
+        "id": "prep-step-2",
+        "title": "Prep Step 2",
+        "mainStep": "Prepare Base Vegetables, in a medium bowl add",
+        "bullets": [
+          "1 yellow onion, diced",
+          "2 large carrots, peeled and thinly sliced",
+          "2 celery stalks, chopped"
+        ]
+      },
+      {
+        "id": "prep-step-3",
+        "title": "Prep Step 3",
+        "mainStep": "Prepare aromatics, in a small bowl add",
+        "bullets": [
+          "6 cloves garlic, minced",
+          "1 Tablespoon fresh grated ginger",
+          "1 teaspoon ground turmeric"
+        ]
+      },
+      {
+        "id": "prep-step-4",
+        "title": "Prep Step 4",
+        "mainStep": "Gather Herbs and Seasonings in a small bowl:",
+        "bullets": [
+          "1 teaspoon fresh rosemary, chopped",
+          "1 teaspoon fresh thyme, stems removed",
+          "1 teaspoon salt",
+          "Fresh black pepper"
+        ]
+      },
+      {
+        "id": "prep-step-5",
+        "title": "Prep Step 5",
+        "mainStep": "Gather Main Ingredients",
+        "bullets": [
+          "6 cups low-sodium chicken broth",
+          "1 pound boneless skinless chicken thighs",
+          "1 cup pearl couscous",
+          "1 cup frozen peas"
+        ]
+      }
+    ],
+    "cookingSteps": [
+      {
+        "id": "cooking-step-1",
+        "title": "Cooking Step 1",
+        "mainStep": "Heat a large dutch oven over medium-high heat",
+        "bullets": [
+          "Add and heat 2 Tablespoons of olive oil (1 minute)"
+        ]
+      },
+      {
+        "id": "cooking-step-2",
+        "title": "Cooking Step 2",
+        "mainStep": "Add the medium bowl of ingredients: onion, carrots, and celery. Cook until onion is translucent (3 minutes)",
+        "bullets": []
+      },
+      {
+        "id": "cooking-step-3",
+        "title": "Cooking Step 3",
+        "mainStep": "Add the small bowl of ingredients: minced garlic, grated ginger, and turmeric. Sauté (30 seconds)",
+        "bullets": []
+      },
+      {
+        "id": "cooking-step-4",
+        "title": "Cooking Step 4",
+        "mainStep": "Add the small bowl of herbs and seasoning (rosemary, thyme, salt and pepper), 6 cups of chicken broth, and chicken tights",
+        "bullets": [
+          "Bring to boil (5 minutes)"
+        ]
+      },
+      {
+        "id": "cooking-step-5",
+        "title": "Cooking Step 5",
+        "mainStep": "Add the couscous, and ensure the chicken is covered by the broth",
+        "bullets": []
+      },
+      {
+        "id": "cooking-step-6",
+        "title": "Cooking Step 6",
+        "mainStep": "Reduce heat to medium-low",
+        "bullets": [
+          "Simmer uncovered until chicken is fully cooked (20-25 minutes)"
+        ]
+      },
+      {
+        "id": "cooking-step-7",
+        "title": "Cooking Step 7",
+        "mainStep": "Remove chicken, roughly cut into bite-size cubes (1/2 inch cubes), and return to pot (3 minutes)",
+        "bullets": []
+      },
+      {
+        "id": "cooking-step-8",
+        "title": "Cooking Step 8",
+        "mainStep": "Stir in 1 cup of frozen peas and adjust seasonings",
+        "bullets": []
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Olive oil",
+        "quantity": "2 Tablespoons",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Yellow onion, diced",
+        "quantity": "1",
+        "category": "Produce"
+      },
+      {
+        "name": "Large carrots, peeled and thinly sliced",
+        "quantity": "2",
+        "category": "Pantry"
+      },
+      {
+        "name": "Celery stalks, chopped",
+        "quantity": "2",
+        "category": "Pantry"
+      },
+      {
+        "name": "Garlic cloves, minced",
+        "quantity": "6",
+        "category": "Produce"
+      },
+      {
+        "name": "Fresh grated ginger",
+        "quantity": "1 Tablespoon",
+        "category": "Pantry"
+      },
+      {
+        "name": "Ground turmeric",
+        "quantity": "1 teaspoon",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Fresh rosemary, chopped",
+        "quantity": "1 teaspoon",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Fresh thyme, stems removed",
+        "quantity": "1 teaspoon",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Salt",
+        "quantity": "1 teaspoon",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Fresh black pepper",
+        "quantity": "to taste",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Chicken broth",
+        "quantity": "6 cups",
+        "category": "Meat"
+      },
+      {
+        "name": "Boneless skinless chicken thighs",
+        "quantity": "1 pound",
+        "category": "Meat"
+      },
+      {
+        "name": "Pearl couscous",
+        "quantity": "1 cup",
+        "category": "Grains"
+      },
+      {
+        "name": "Frozen peas",
+        "quantity": "1 cup",
+        "category": "Frozen Foods"
+      }
+    ],
+    "groceryList": {
+      "Condiments & Sauces": [
+        "2 Tablespoons Olive oil"
+      ],
+      "Produce": [
+        "1 Yellow onion, diced",
+        "6 Garlic cloves, minced"
+      ],
+      "Pantry": [
+        "2 Large carrots, peeled and thinly sliced",
+        "2 Celery stalks, chopped",
+        "1 Tablespoon Fresh grated ginger"
+      ],
+      "Spices & Herbs": [
+        "1 teaspoon Ground turmeric",
+        "1 teaspoon Fresh rosemary, chopped",
+        "1 teaspoon Fresh thyme, stems removed",
+        "1 teaspoon Salt",
+        "to taste Fresh black pepper"
+      ],
+      "Meat": [
+        "6 cups Chicken broth",
+        "1 pound Boneless skinless chicken thighs"
+      ],
+      "Grains": [
+        "1 cup Pearl couscous"
+      ],
+      "Frozen Foods": [
+        "1 cup Frozen peas"
+      ]
+    }
+  }

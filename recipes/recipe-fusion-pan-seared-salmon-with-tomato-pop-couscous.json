@@ -1,0 +1,238 @@
+{
+    "id": "recipe-fusion-pan-seared-salmon-with-tomato-pop-couscous",
+    "title": "Recipe Fusion: Pan-Seared Salmon with Tomato Pop Couscous",
+    "metadata": {
+      "imageUrl": "images/recipe-fusion-pan-seared-salmon-with-tomato-pop-couscous.jpg",
+      "yields": "4 servings",
+      "totalTime": "45 minutes",
+      "prepTime": "15 minutes",
+      "activeTime": "10 minutes",
+      "handsOffTime": "10 minutes"
+    },
+    "preparationSteps": [
+      {
+        "id": "prep-step-1",
+        "title": "Prep Step 1",
+        "mainStep": "Gather the first part of the cooking ingredients. They will be added in stages",
+        "bullets": [
+          "1 cup of pearl couscous",
+          "4 cups of water",
+          "1 Tablespoon of salt"
+        ]
+      },
+      {
+        "id": "prep-step-2",
+        "title": "Prep Step 2",
+        "mainStep": "Prepare and gather the ingredients for the second part. They will be added in stages",
+        "bullets": [
+          "2 Tablespoons of olive oil",
+          "Mince 2 garlic cloves"
+        ]
+      },
+      {
+        "id": "prep-step-3",
+        "title": "Prep Step 3",
+        "mainStep": "Prepare and gather the ingredients for the third part in a medium bowl. They will be added together",
+        "bullets": [
+          "Cut 35 -40 cherry tomatoes in half - ~2 cups, ~10-12 ounces",
+          "¼ teaspoon of sugar",
+          "½ teaspoon of salt",
+          "1 sprig of basil"
+        ]
+      },
+      {
+        "id": "prep-step-4",
+        "title": "Prep Step 4",
+        "mainStep": "Prepare the ingredients for the serving",
+        "bullets": [
+          "Sliver 1 Tablespoon of basil - ~10 basil leaves"
+        ]
+      },
+      {
+        "id": "prep-step-5",
+        "title": "Prep Step 5",
+        "mainStep": "Season the salmon fillets",
+        "bullets": [
+          "Pat dry the 4 salmon fillets and season with salt (~1 teaspoon) and freshly ground black pepper on both sides"
+        ]
+      },
+      {
+        "id": "prep-step-6",
+        "title": "Prep Step 6",
+        "mainStep": "Gather the olive oil",
+        "bullets": [
+          "1 Tablespoon extra virgin olive oil"
+        ]
+      }
+    ],
+    "cookingSteps": [
+      {
+        "id": "cooking-step-1",
+        "title": "Cooking Step 1",
+        "mainStep": "SIDE - Heat a medium saucepan over medium-high heat",
+        "bullets": [
+          "Add 1 cup of couscous",
+          "Toast couscous, stirring often, until it colors very lightly (2 minutes)",
+          "Add the 4 cups of water and 1 Tablespoon of salt",
+          "Boil water until couscous is al dente (10 minutes)",
+          "Drain the couscous through a strainer"
+        ]
+      },
+      {
+        "id": "cooking-step-2",
+        "title": "Cooking Step 2",
+        "mainStep": "MAIN - Heat a nonstick skillet over medium-high heat",
+        "bullets": [
+          "Add and heat olive oil (1 minute)",
+          "Add salmon skin side up, and cook salmon undisturbed (4 minutes)"
+        ]
+      },
+      {
+        "id": "cooking-step-3",
+        "title": "Cooking Step 3",
+        "mainStep": "SIDE - Heat a heavy skillet over medium heat",
+        "bullets": [
+          "Add and heat 2 Tablespoons of olive oil",
+          "Add and cook garlic (30 seconds)"
+        ]
+      },
+      {
+        "id": "cooking-step-4",
+        "title": "Cooking Step 4",
+        "mainStep": "SIDE - Turn the heat up of the heavy skillet to medium-high heat",
+        "bullets": [
+          "Add the medium bowl of ingredients for the third part - cherry tomatoes, salt, sugar, and basil sprig",
+          "Cook tomato, stirring often (5 minutes)"
+        ]
+      },
+      {
+        "id": "cooking-step-5",
+        "title": "Cooking Step 5",
+        "mainStep": "MAIN - When the 4 minute salmon timer is up, reduce heat to medium",
+        "bullets": [
+          "Flip the salmon skin side down and cook salmon until done  (4 minutes)"
+        ]
+      },
+      {
+        "id": "cooking-step-6",
+        "title": "Cooking Step 6",
+        "mainStep": "SIDE - When the tomato 5 minute-timer is up, turn off the heat",
+        "bullets": [
+          "Remove basil sprig",
+          "Add the cooked couscous to the pan and stir together",
+          "Taste and adjust for seasoning",
+          "Sprinkle the slivered basil on top"
+        ]
+      },
+      {
+        "id": "cooking-step-7",
+        "title": "Cooking Step 7",
+        "mainStep": "MAIN - When the second 4 minute salmon timer is up, turn off the heat",
+        "bullets": [
+          "Transfer to platter and serve"
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Pearl couscous",
+        "quantity": "1 cup",
+        "category": "Grains"
+      },
+      {
+        "name": "Water",
+        "quantity": "4 cups",
+        "category": "Beverages"
+      },
+      {
+        "name": "Of salt",
+        "quantity": "1 Tablespoon",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Olive oil",
+        "quantity": "2 Tablespoons",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Garlic cloves, minced",
+        "quantity": "2",
+        "category": "Produce"
+      },
+      {
+        "name": "Cherry tomatoes cut in half",
+        "quantity": "35 - 40 (- ~2 cups, ~10-12 ounces)",
+        "category": "Produce"
+      },
+      {
+        "name": "Sugar",
+        "quantity": "¼ teaspoon",
+        "category": "Baking"
+      },
+      {
+        "name": "Salt",
+        "quantity": "½ teaspoon",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Sprig of basil",
+        "quantity": "1",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Basil slivered",
+        "quantity": "~10 basil leaves (1 Tablespoon)",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Salmon fillets with skin",
+        "quantity": "4 6 ounces",
+        "category": "Seafood"
+      },
+      {
+        "name": "Olive oil",
+        "quantity": "1 Tablespoon",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Kosher salt",
+        "quantity": "1 teaspoon",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Freshly ground black pepper",
+        "quantity": "to taste",
+        "category": "Spices & Herbs"
+      }
+    ],
+    "groceryList": {
+      "Grains": [
+        "1 cup Pearl couscous"
+      ],
+      "Beverages": [
+        "4 cups Water"
+      ],
+      "Spices & Herbs": [
+        "1 Tablespoon Of salt",
+        "½ teaspoon Salt",
+        "1 Sprig of basil",
+        "~10 basil leaves (1 Tablespoon) Basil slivered",
+        "1 teaspoon Kosher salt",
+        "to taste Freshly ground black pepper"
+      ],
+      "Condiments & Sauces": [
+        "2 Tablespoons Olive oil",
+        "1 Tablespoon Olive oil"
+      ],
+      "Produce": [
+        "2 Garlic cloves, minced",
+        "35 - 40 (- ~2 cups, ~10-12 ounces) Cherry tomatoes cut in half"
+      ],
+      "Baking": [
+        "¼ teaspoon Sugar"
+      ],
+      "Seafood": [
+        "4 6 ounces Salmon fillets with skin"
+      ]
+    }
+  }

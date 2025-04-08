@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Viewer</title>
+    <link href="https://fonts.googleapis.com/css2?family=Prata&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <a href="index.html" class="back-button">← Back to All Recipes</a>
+        
+        <!-- Recipe Introduction -->
+        <div id="recipe-intro" class="recipe-container">
+            <h1 id="recipe-title" class="recipe-title">Recipe Title</h1>
+            
+            <div class="intro-layout">
+                <div class="intro-image-container">
+                    <img id="recipe-image" src="images/placeholder.jpg" alt="Recipe Image" class="recipe-image">
+                </div>
+                
+                <div class="recipe-meta">
+                    <div class="meta-item">
+                        <span class="meta-label">Yields:</span>
+                        <span id="recipe-yields" class="meta-value">4 servings</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Total Time:</span>
+                        <span id="recipe-total-time" class="meta-value">30 minutes</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Prep Time:</span>
+                        <span id="recipe-prep-time" class="meta-value">10 minutes</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Active Time:</span>
+                        <span id="recipe-active-time" class="meta-value">20 minutes</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Hands-off Time:</span>
+                        <span id="recipe-hands-off-time" class="meta-value">0 minutes</span>
+                    </div>
+                </div>
+            </div>
+            
+            <button id="start-recipe" class="primary-button">Start Cooking</button>
+            <button id="shopping-list" class="secondary-button">View Shopping List</button>
+            </div>
+            
+            <div class="ingredients-section">
+                <h2>Ingredients</h2>
+                <ul id="ingredients-list" class="ingredients-list"></ul>
+            </div>
+            
+        </div>
+        
+        <!-- Recipe Steps -->
+        <div id="recipe-steps" class="recipe-container step-container">
+            <div class="progress-bar">
+                <div id="step-progress" class="progress"></div>
+            </div>
+            
+            <div class="phase-indicators">
+                <div id="prep-phase" class="phase-indicator active">Preparation</div>
+                <div id="cooking-phase" class="phase-indicator">Cooking</div>
+            </div>
+            
+            <h2 id="step-number" class="step-number">Step 1</h2>
+            <p id="main-step" class="main-step">Main step instructions here.</p>
+            <ul id="bullet-list" class="bullet-list"></ul>
+            
+            <!-- Single Timer Container -->
+            <div id="timer-container" class="timer-container" style="display: none;">
+                <button id="start-timer" class="timer-button primary-button">Start Timer</button>
+                <button id="pause-timer" class="timer-button primary-button" style="display: none;">Pause</button>
+                <button id="reset-timer" class="timer-button secondary-button" style="display: none;">Reset</button>
+                <div id="timer-display" class="timer-display">00:00</div>
+            </div>
+            
+            <!-- Multi-Timer Container -->
+            <div id="multi-timer-container" class="multi-timer-container"></div>
+            
+            <div class="step-navigation">
+                <button id="prev-step" class="secondary-button">Previous Step</button>
+                <button id="read-step" class="secondary-button">Read Aloud</button>
+                <button id="next-step" class="primary-button">Next Step</button>
+                <button id="finish-recipe" class="primary-button" style="display: none;">Finish</button>
+            </div>
+            
+            <!-- Enhanced Voice Controls -->
+            <div class="voice-controls-enhanced">
+                <div class="voice-command-button-container">
+                    <button id="voice-command-button" class="secondary-button">Enable Voice Commands</button>
+                </div>
+                
+                <div class="voice-status-container">
+                    <p id="voice-status" class="status">Voice commands are disabled.</p>
+                    
+                    <!-- Contextual suggestions (hidden by default) -->
+                    <div id="command-suggestions" class="command-suggestions" style="display: none;">
+                        <div id="current-suggestions" class="current-suggestions">
+                            <!-- Suggestions will be dynamically inserted here -->
+                        </div>
+                        <button id="show-all-commands" class="text-button">See all commands</button>
+                    </div>
+                </div>
+                
+                <!-- Elegant slide-in panel for all commands -->
+                <div id="commands-panel" class="commands-panel">
+                    <div class="commands-panel-header">
+                        <h3>Voice Commands</h3>
+                        <button id="close-commands" class="text-button">Close</button>
+                    </div>
+                    
+                    <div class="commands-content">
+                        <div class="command-category">
+                            <h4>Timer Controls</h4>
+                            <ul>
+                                <li><span class="command">"Start timer"</span> - Start the current timer</li>
+                                <li><span class="command">"Pause timer"</span> - Pause the current timer</li>
+                                <li><span class="command">"Reset timer"</span> - Reset the current timer</li>
+                                <li><span class="command">"Start cooking timer"</span> - Start a specific named timer</li>
+                                <li><span class="command">"Pause broccoli timer"</span> - Pause a specific named timer</li>
+                                <li><span class="command">"Start all timers"</span> - Start all timers</li>
+                                <li><span class="command">"List timers"</span> - Show available timers</li>
+                                <li><span class="command">"Create a timer for 5 minutes"</span> - Create new timer</li>
+                                <li><span class="command">"Create a pasta timer for 8 minutes"</span> - Create named timer</li>
+                            </ul>
+                        </div>
+                        
+                        <div class="command-category">
+                            <h4>Navigation</h4>
+                            <ul>
+                                <li><span class="command">"Next step"</span> or <span class="command">"Forward"</span> - Next step</li>
+                                <li><span class="command">"Previous step"</span> or <span class="command">"Back"</span> - Previous step</li>
+                                <li><span class="command">"Finish"</span> or <span class="command">"Done"</span> - Complete recipe</li>
+                            </ul>
+                        </div>
+                        
+                        <div class="command-category">
+                            <h4>Reading Instructions</h4>
+                            <ul>
+                                <li><span class="command">"Read step"</span> - Read current step aloud</li>
+                                <li><span class="command">"Stop reading"</span> - Stop reading aloud</li>
+                                <li><span class="command">"Pause reading"</span> - Pause reading aloud</li>
+                                <li><span class="command">"Resume reading"</span> - Continue reading</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Original Voice Controls (will be hidden by CSS when enhanced controls are active) -->
+            <div class="voice-controls">
+                <button id="voice-command-button-original" class="secondary-button">Enable Voice Commands</button>
+                <p id="voice-status-original" class="status">Voice commands are disabled.</p>
+            </div>
+        </div>
+        
+        <!-- Shopping List Modal -->
+        <div id="shopping-list-modal" class="modal">
+            <div class="modal-content">
+                <span class="close-button">&times;</span>
+                <h2>Shopping List</h2>
+                <div id="grocery-list-container"></div>
+                <button id="print-list" class="primary-button">Print List</button>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Helper script for element compatibility -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Make global references available
+            window.recipeElements = {
+                recipeIntro: document.getElementById('recipe-intro'),
+                recipeSteps: document.getElementById('recipe-steps'),
+                startRecipeBtn: document.getElementById('start-recipe'),
+                prevStepBtn: document.getElementById('prev-step'),
+                nextStepBtn: document.getElementById('next-step'),
+                finishRecipeBtn: document.getElementById('finish-recipe'),
+                readStepBtn: document.getElementById('read-step'),
+                voiceCommandBtn: document.getElementById('voice-command-button'),
+                stepProgress: document.getElementById('step-progress'),
+                stepNumberEl: document.getElementById('step-number'),
+                mainStepEl: document.getElementById('main-step'),
+                bulletListEl: document.getElementById('bullet-list'),
+                prepPhase: document.getElementById('prep-phase'),
+                cookingPhase: document.getElementById('cooking-phase'),
+                voiceStatus: document.getElementById('voice-status'),
+                timerContainer: document.getElementById('timer-container'),
+                startTimerBtn: document.getElementById('start-timer'),
+                pauseTimerBtn: document.getElementById('pause-timer'),
+                resetTimerBtn: document.getElementById('reset-timer'),
+                timerDisplay: document.getElementById('timer-display'),
+                shoppingListBtn: document.getElementById('shopping-list'),
+                shoppingListModal: document.getElementById('shopping-list-modal'),
+                closeModalBtn: document.querySelector('.close-button'),
+                printListBtn: document.getElementById('print-list'),
+                commandSuggestions: document.getElementById('command-suggestions'),
+                currentSuggestions: document.getElementById('current-suggestions'),
+                showAllCommandsBtn: document.getElementById('show-all-commands'),
+                commandsPanel: document.getElementById('commands-panel'),
+                closeCommandsBtn: document.getElementById('close-commands')
+            };
+            
+            console.log("Element references created");
+        });
+    </script>
+    
+    <!-- Scripts -->
+    <script src="js/viewer-script.js"></script>
+    <script src="js/multi-timer.js"></script>
+    <script src="js/voice-commands.js"></script>
+    <script src="js/voice-integration.js"></script>
+    <script src="js/voice-debug.js"></script>
+
+</body>
+</html>

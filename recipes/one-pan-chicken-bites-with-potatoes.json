@@ -1,0 +1,164 @@
+{
+    "id": "one-pan-chicken-bites-with-potatoes",
+    "title": "One-Pan Chicken Bites with Potatoes",
+    "metadata": {
+      "imageUrl": "images/one-pan-chicken-bites-with-potatoes.jpg",
+      "yields": "4 servings",
+      "totalTime": "45 minutes",
+      "prepTime": "15 minutes",
+      "activeTime": "5 minutes",
+      "handsOffTime": "25 minutes"
+    },
+    "preparationSteps": [
+      {
+        "id": "prep-step-1",
+        "title": "Prep Step 1",
+        "mainStep": "Preheat oven to 400°F.",
+        "bullets": []
+      },
+      {
+        "id": "prep-step-2",
+        "title": "Prep Step 2",
+        "mainStep": "Prepare the Paprika Mayonnaise, in a large mixing bowl, combine",
+        "bullets": [
+          "½ cup mayonnaise (preferably Kewpie)",
+          "1 tablespoon smoked paprika",
+          "Mix well and reserve about half ( ¼ cup) of this mixture to a small bowl (for the dipping sauce)."
+        ]
+      },
+      {
+        "id": "prep-step-3",
+        "title": "Prep Step 3",
+        "mainStep": "Prepare the chicken",
+        "bullets": [
+          "Cut 1½ pounds boneless, skinless chicken thighs into 2-inch pieces",
+          "Season chicken with salt and freshly cracked black pepper",
+          "Add seasoned chicken to the large bowl with remaining paprika mayonnaise and toss until evenly coated."
+        ]
+      },
+      {
+        "id": "prep-step-4",
+        "title": "Prep Step 4",
+        "mainStep": "Prepare the potatoes",
+        "bullets": [
+          "Using a mandolin, slice 1½ pounds baby potatoes lengthwise into ⅛-inch-thick slices",
+          "Spread the potatoes in a large sheet pan, and add 2 Tablespoons olive oil, 1 teaspoon of salt, and 1 teaspoon smoked paprika",
+          "Toss potatoes until evenly coated.",
+          "Spread potatoes in an even layer, placing thicker slices near the edges of the pan",
+          "Arrange chicken pieces on top of potatoes in a single layer"
+        ]
+      },
+      {
+        "id": "prep-step-5",
+        "title": "Prep Step 5",
+        "mainStep": "Prepare the paprika-lime dipping sauce",
+        "bullets": [
+          "To the small bowl with ¼ cup of reserved paprika mayonnaise, stir to combine 1 tablespoon olive oil, ½ teaspoon of salt, and juice from half a lime",
+          "Refrigerate until ready to serve."
+        ]
+      },
+      {
+        "id": "prep-step-6",
+        "title": "Prep Step 6",
+        "mainStep": "Prepare the garnish",
+        "bullets": [
+          "Chop 2 tablespoons parsley"
+        ]
+      }
+    ],
+    "cookingSteps": [
+      {
+        "id": "cooking-step-1",
+        "title": "Cooking Step 1",
+        "mainStep": "Preheat oven to 400°F (in case you missed it in the preparation)",
+        "bullets": [
+          "Place sheet pan in preheated oven.",
+          "Roast chicken until it is cooked and potatoes tender (25 minutes)"
+        ]
+      },
+      {
+        "id": "cooking-step-2",
+        "title": "Cooking Step 2",
+        "mainStep": "Serving",
+        "bullets": [
+          "Remove sheet pan from oven",
+          "Garnish chicken and potatoes with chopped parsley",
+          "Serve with chilled paprika-lime dipping sauce"
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Mayonnaise, preferably Kewpie",
+        "quantity": "½ cup",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Smoked paprika",
+        "quantity": "1 Tablespoon",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Boneless, skinless chicken thighs, cut into 2-inch pieces",
+        "quantity": "1½ pound",
+        "category": "Meat"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Black pepper",
+        "quantity": "to taste",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Baby potatoes, sliced lengthwise into ⅛-inch-thick slices",
+        "quantity": "1½ pound",
+        "category": "Pantry"
+      },
+      {
+        "name": "Olive oil",
+        "quantity": "3 Tablespoons",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Of salt",
+        "quantity": "1 teaspoon",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Lime",
+        "quantity": "½",
+        "category": "Produce"
+      },
+      {
+        "name": "Parsley",
+        "quantity": "2 Tablespoons",
+        "category": "Produce"
+      }
+    ],
+    "groceryList": {
+      "Condiments & Sauces": [
+        "½ cup Mayonnaise, preferably Kewpie",
+        "3 Tablespoons Olive oil"
+      ],
+      "Spices & Herbs": [
+        "1 Tablespoon Smoked paprika",
+        "to taste Salt",
+        "to taste Black pepper",
+        "1 teaspoon Of salt"
+      ],
+      "Meat": [
+        "1½ pound Boneless, skinless chicken thighs, cut into 2-inch pieces"
+      ],
+      "Pantry": [
+        "1½ pound Baby potatoes, sliced lengthwise into ⅛-inch-thick slices"
+      ],
+      "Produce": [
+        "½ Lime",
+        "2 Tablespoons Parsley"
+      ]
+    }
+  }

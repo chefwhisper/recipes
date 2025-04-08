@@ -1,0 +1,227 @@
+{
+    "id": "one-pot-coconut-chicken-and-rice",
+    "title": "One-Pot Coconut Chicken and Rice",
+    "metadata": {
+      "imageUrl": "images/one-pot-coconut-chicken-and-rice.jpg",
+      "yields": "4 servings",
+      "totalTime": "60 minutes",
+      "prepTime": "15 minutes",
+      "activeTime": "20 minutes",
+      "handsOffTime": "25 minutes"
+    },
+    "preparationSteps": [
+      {
+        "id": "prep-step-1",
+        "title": "Prep Step 1",
+        "mainStep": "Gather ingredients and prepare the chicken:",
+        "bullets": [
+          "In a small bowl, mix 1 Tablespoon of oil with 1 teaspoon salt and ¼ teaspoon pepper",
+          "Cut each chicken thigh (1 ½ pounds in total)  into 2 equal-size pieces",
+          "In a small bowl, mix 1 tablespoon oil with 1 teaspoon salt and ¼ teaspoon pepper",
+          "Rub mixture all over chicken pieces",
+          "Measure 2 Tablespoons of oil"
+        ]
+      },
+      {
+        "id": "prep-step-2",
+        "title": "Prep Step 2",
+        "mainStep": "Prepare ingredients for aromatics, add to a small bowl, they will be added together",
+        "bullets": [
+          "Mince 2 Tablespoons fresh ginger",
+          "Mince 4 garlic cloves",
+          "1 Tablespoon of oil"
+        ]
+      },
+      {
+        "id": "prep-step-3",
+        "title": "Prep Step 3",
+        "mainStep": "Prepare the rice",
+        "bullets": [
+          "Rinse 1½ cups short-grain white rice until water runs clear, drain well"
+        ]
+      },
+      {
+        "id": "prep-step-4",
+        "title": "Prep Step 4",
+        "mainStep": "Gather and prepare ingredients for the broth, they will be added together",
+        "bullets": [
+          "1¾ cups low-sodium chicken broth",
+          "Open 1 (13.5-ounce) can full-fat coconut milk",
+          "In a medium bowl, add",
+          "Core, seed and chop 1 yellow bell pepper into ½-inch pieces",
+          "Coarsely chop ½ cup of roasted cashews",
+          "Thinly slice 3 scallions (green and white parts)",
+          "1 teaspoon salt",
+          "¼ teaspoon pepper"
+        ]
+      },
+      {
+        "id": "prep-step-5",
+        "title": "Prep Step 5",
+        "mainStep": "Gather and prepare the serving ingredients",
+        "bullets": [
+          "Corsely chop 2 Tablespoons of cilantro",
+          "Hot sauce for serving"
+        ]
+      }
+    ],
+    "cookingSteps": [
+      {
+        "id": "cooking-step-1",
+        "title": "Cooking Step 1",
+        "mainStep": "Preheat oven to 375°F",
+        "bullets": []
+      },
+      {
+        "id": "cooking-step-2",
+        "title": "Cooking Step 2",
+        "mainStep": "Heat large Dutch oven over medium heat",
+        "bullets": [
+          "Add and heat 2 Tablespoons oil (2 minutes)",
+          "Working in two batches, brown chicken turing halfway (5 minutes)",
+          "Transfer browned chicken to a plate"
+        ]
+      },
+      {
+        "id": "cooking-step-3",
+        "title": "Cooking Step 3",
+        "mainStep": "Keep heat at medium heat",
+        "bullets": [
+          "Add the small bowl with the 2 Tablespoons of ginger, 4 garlic cloves minced, and Tablespoon oil to empty pot, stir",
+          "Add rice and stir until evenly coated in oil",
+          "Add the 1¾ cups chicken broth, 1 can of coconut milk,and the medium bowl with the 1 bell pepper, ½ of cashews, 3 scallions, 1 teaspoon salt and ¼ teaspoon pepper",
+          "Stir to lift up any browned bits from bottom of pot"
+        ]
+      },
+      {
+        "id": "cooking-step-4",
+        "title": "Cooking Step 4",
+        "mainStep": "Turn heat up to high",
+        "bullets": [
+          "Arrange chicken pieces on top of rice mixture",
+          "Add any accumulated juices from the chicken plate",
+          "Bring to a boil over high heat"
+        ]
+      },
+      {
+        "id": "cooking-step-5",
+        "title": "Cooking Step 5",
+        "mainStep": "Cover Dutch oven with lid and transfer to preheated 375°F oven",
+        "bullets": [
+          "Bake rice until liquid is absorbed, rice is tender and chicken is cooked through (25 minutes)"
+        ]
+      },
+      {
+        "id": "cooking-step-6",
+        "title": "Cooking Step 6",
+        "mainStep": "Finish and serve:",
+        "bullets": [
+          "Remove from oven",
+          "Scatter chopped cilantro over the chicken and rice",
+          "Divide among bowls and serve with hot sauce"
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Oil",
+        "quantity": "5 Tablespoons",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Salt",
+        "quantity": "2 teaspoons",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Black pepper",
+        "quantity": "½ teaspoon",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Chicken thigh",
+        "quantity": "1 ½ pound",
+        "category": "Meat"
+      },
+      {
+        "name": "Fresh ginger, minced",
+        "quantity": "2 Tablespoons",
+        "category": "Pantry"
+      },
+      {
+        "name": "Garlic cloves, minced",
+        "quantity": "4",
+        "category": "Produce"
+      },
+      {
+        "name": "Short-grain white rice",
+        "quantity": "1½ cup",
+        "category": "Grains"
+      },
+      {
+        "name": "Low-sodium chicken broth",
+        "quantity": "1¾ cup",
+        "category": "Meat"
+      },
+      {
+        "name": "Can full-fat coconut milk",
+        "quantity": "1 13.5-ounce",
+        "category": "Dairy"
+      },
+      {
+        "name": "Yellow bell pepper, seeded, and chopped into ½-inch pieces",
+        "quantity": "1",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Of roasted cashews, coarsely chopped",
+        "quantity": "½ cup",
+        "category": "Pantry"
+      },
+      {
+        "name": "Scallions, green and white parts",
+        "quantity": "3",
+        "category": "Produce"
+      },
+      {
+        "name": "Coarsely chopped cilantro",
+        "quantity": "2 Tablespoons",
+        "category": "Produce"
+      },
+      {
+        "name": "Hot sauce for serving",
+        "quantity": "to taste",
+        "category": "Condiments & Sauces"
+      }
+    ],
+    "groceryList": {
+      "Condiments & Sauces": [
+        "5 Tablespoons Oil",
+        "to taste Hot sauce for serving"
+      ],
+      "Spices & Herbs": [
+        "2 teaspoons Salt",
+        "½ teaspoon Black pepper",
+        "1 Yellow bell pepper, seeded, and chopped into ½-inch pieces"
+      ],
+      "Meat": [
+        "1 ½ pound Chicken thigh",
+        "1¾ cup Low-sodium chicken broth"
+      ],
+      "Pantry": [
+        "2 Tablespoons Fresh ginger, minced",
+        "½ cup Of roasted cashews, coarsely chopped"
+      ],
+      "Produce": [
+        "4 Garlic cloves, minced",
+        "3 Scallions, green and white parts",
+        "2 Tablespoons Coarsely chopped cilantro"
+      ],
+      "Grains": [
+        "1½ cup Short-grain white rice"
+      ],
+      "Dairy": [
+        "1 13.5-ounce Can full-fat coconut milk"
+      ]
+    }
+  }

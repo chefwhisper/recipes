@@ -1,0 +1,210 @@
+{
+    "id": "recipe-fusion-miso-caramel-pork-chops-with-apples-and-garlic-mashed-potatoes",
+    "title": "Recipe fusion: Miso-Caramel Pork Chops with Apples and Garlic Mashed Potatoes",
+    "metadata": {
+      "imageUrl": "images/recipe-fusion-miso-caramel-pork-chops-with-apples-and-garlic-mashed-potatoes.jpg",
+      "yields": "4 servings",
+      "totalTime": "45 minutes",
+      "prepTime": "15 minutes",
+      "activeTime": "30 minutes",
+      "handsOffTime": ""
+    },
+    "preparationSteps": [
+      {
+        "id": "prep-step-1",
+        "title": "Prep Step 1",
+        "mainStep": "Prepare the ingredients for the mashed potatoes, place in a large bowl, they will be used together",
+        "bullets": [
+          "Cut 4 large potatoes into 1-inch chunks",
+          "Peel 8 garlic cloves",
+          "2 teaspoons of salt"
+        ]
+      },
+      {
+        "id": "prep-step-2",
+        "title": "Prep Step 2",
+        "mainStep": "Measure ¼ cup extra-virgin olive oil that will be used in the mashed potatoes",
+        "bullets": []
+      },
+      {
+        "id": "prep-step-3",
+        "title": "Prep Step 3",
+        "mainStep": "Prepare the pork chops",
+        "bullets": [
+          "Pat the 4 pork chops very dry with paper towels.",
+          "Season pork chops all over with salt and 2 teaspoons black pepper.",
+          "Measure 2 Tablespoons of canola oil (or other neutral oil)"
+        ]
+      },
+      {
+        "id": "prep-step-4",
+        "title": "Prep Step 4",
+        "mainStep": "Prepare the miso brown sugar mixture, in a small bowl, combine",
+        "bullets": [
+          "4 Tablespoons light brown sugar",
+          "2 Tablespoons white miso",
+          "2 Tablespoons apple cider vinegar",
+          "4 Tablespoons of water",
+          "Stir with a fork until smooth"
+        ]
+      },
+      {
+        "id": "prep-step-5",
+        "title": "Prep Step 5",
+        "mainStep": "Prepare the apples",
+        "bullets": [
+          "Core 2 apples, then slice into ¼-inch thick slices"
+        ]
+      }
+    ],
+    "cookingSteps": [
+      {
+        "id": "cooking-step-1",
+        "title": "Cooking Step 1",
+        "mainStep": "Heat a large saucepan with water over high heat until boiling. (5 minutes)",
+        "bullets": [
+          "Add the large bowl with the potatoes, 8 garlic cloves and 2 teaspoons salt to the boiling water",
+          "Reduce heat to simmer. Cook until potatoes are tender. (15 minutes)",
+          "While potatoes are cooking, start to cook the pork"
+        ]
+      },
+      {
+        "id": "cooking-step-2",
+        "title": "Cooking Step 2",
+        "mainStep": "Heat a large skillet over medium heat",
+        "bullets": [
+          "If the skillet is not large enough for 4 pork chops, cook it in 2 batches or use 2 skillets",
+          "Add and heat 2 Tablespoons oil (2 minutes)",
+          "Add the seasoned pork chops. Cook, flipping every 2 minutes, until browned and internal temperature reaches 135°F in the thickest part (10-15 minutes)",
+          "Transfer pork chops to a plate to rest",
+          "Turn off the heat and pour off all but 2 Tablespoons of fat from the skillet, enough to have a thin layer of fat"
+        ]
+      },
+      {
+        "id": "cooking-step-3",
+        "title": "Cooking Step 3",
+        "mainStep": "When the 15 minutes potato timer is done",
+        "bullets": [
+          "Drain potatoes and garlic, reserving 1 cup of cooking liquid",
+          "Mash potatoes and garlic in the same saucepan",
+          "Beat in ¼ cup olive oil until well incorporated",
+          "Thin potatoes to desired consistency with reserved cooking liquid, adding a little at a time",
+          "Check seasoning and add more salt if needed",
+          "Cover mashed potatoes to keep warm."
+        ]
+      },
+      {
+        "id": "cooking-step-4",
+        "title": "Cooking Step 4",
+        "mainStep": "Turn the heat for the large skillet to medium heat",
+        "bullets": [
+          "Add apple slices to the skillet in a single layer",
+          "Cook apples without touching until browned underneath (2-4 minutes).",
+          "Pour the miso brown sugar mixture into the skillet and cook, scraping up browned bits and stirring, until the sauce thickens enough to coat the back of a spoon (2 minutes)."
+        ]
+      },
+      {
+        "id": "cooking-step-5",
+        "title": "Cooking Step 5",
+        "mainStep": "Turn off the heat",
+        "bullets": [
+          "Add the pork chops and their juices back to the skillet and turn to coat in the caramel.",
+          "Serve pork chops with a spoonful of the apples and caramel alongside the garlic mashed potatoes"
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Yukon Gold",
+        "quantity": "2 pounds",
+        "category": "Produce"
+      },
+      {
+        "name": "Garlic cloves, peeled",
+        "quantity": "8",
+        "category": "Produce"
+      },
+      {
+        "name": "Salt, plus more to taste",
+        "quantity": "2 teaspoons",
+        "category": "Pantry"
+      },
+      {
+        "name": "Extra-virgin olive oil",
+        "quantity": "¼ cup",
+        "category": "Pantry"
+      },
+      {
+        "name": "1 cup reserved cooking liquid",
+        "quantity": "as needed",
+        "category": "Pantry"
+      },
+      {
+        "name": "Pork Chops",
+        "quantity": "4",
+        "category": "Meat"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste",
+        "category": "Pantry"
+      },
+      {
+        "name": "Black pepper",
+        "quantity": "2 teaspoons",
+        "category": "Pantry"
+      },
+      {
+        "name": "Canola oil",
+        "quantity": "2 Tablespoons",
+        "category": "Pantry"
+      },
+      {
+        "name": "Light brown sugar",
+        "quantity": "4 Tablespoons",
+        "category": "Pantry"
+      },
+      {
+        "name": "White miso",
+        "quantity": "2 Tablespoons",
+        "category": "Pantry"
+      },
+      {
+        "name": "Apple cider vinegar",
+        "quantity": "2 Tablespoons",
+        "category": "Produce"
+      },
+      {
+        "name": "Water",
+        "quantity": "4 Tablespoons",
+        "category": "Pantry"
+      },
+      {
+        "name": "Granny Smith apples or other tart -crisp apples",
+        "quantity": "2",
+        "category": "Pantry"
+      }
+    ],
+    "groceryList": {
+      "Produce": [
+        "2 pounds Yukon Gold",
+        "8 Garlic cloves, peeled",
+        "2 Tablespoons Apple cider vinegar"
+      ],
+      "Pantry": [
+        "2 teaspoons Salt, plus more to taste",
+        "¼ cup Extra-virgin olive oil",
+        "as needed 1 cup reserved cooking liquid",
+        "to taste Salt",
+        "2 teaspoons Black pepper",
+        "2 Tablespoons Canola oil",
+        "4 Tablespoons Light brown sugar",
+        "2 Tablespoons White miso",
+        "4 Tablespoons Water",
+        "2 Granny Smith apples or other tart -crisp apples"
+      ],
+      "Meat": [
+        "4 Pork Chops"
+      ]
+    }
+  }

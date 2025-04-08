@@ -1,0 +1,308 @@
+{
+    "id": "beef-veggie-stew",
+    "title": "Beef & Veggie Stew",
+    "metadata": {
+      "imageUrl": "images/beef-veggie-stew.jpg",
+      "yields": "8 servings",
+      "totalTime": "4 hours and 15 minutes",
+      "prepTime": "30 minutes",
+      "activeTime": "45 minutes",
+      "handsOffTime": "3 hours"
+    },
+    "preparationSteps": [
+      {
+        "id": "prep-step-1",
+        "title": "Prep Step 1",
+        "mainStep": "Gather and Prepare Meat & Seasonings",
+        "bullets": [
+          "Cut 3 pounds beef stew meat into 2-inch cubes",
+          "Pat beef dry and season with 2 teaspoons salt and ½ teaspoon pepper",
+          "Measure 2 Tablespoons of olive oil"
+        ]
+      },
+      {
+        "id": "prep-step-2",
+        "title": "Prep Step 2",
+        "mainStep": "Prepare the second part of the ingredients and place together in a medium bowl. They will be added together",
+        "bullets": [
+          "Chop 1 jumbo onion",
+          "Chop 6 garlic cloves",
+          "Measure separately 2 Tablespoons of olive oil"
+        ]
+      },
+      {
+        "id": "prep-step-3",
+        "title": "Prep Step 3",
+        "mainStep": "Measure ingredients for the base. They will be added in stages",
+        "bullets": [
+          "2 tablespoons tomato paste",
+          "3 tablespoons all-purpose or gluten-free flour",
+          "2 cups of dry red wine",
+          "4 cups beef broth"
+        ]
+      },
+      {
+        "id": "prep-step-4",
+        "title": "Prep Step 4",
+        "mainStep": "Prepare Herbs and Aromatics. In a small bowl, mix:",
+        "bullets": [
+          "1 bay leaf",
+          "2 fresh thyme sprigs",
+          "1½ teaspoons silan (date syrup), honey, or sugar",
+          "2 teaspoons of salt",
+          "1 teaspoon of pepper"
+        ]
+      },
+      {
+        "id": "prep-step-5",
+        "title": "Prep Step 5",
+        "mainStep": "Prepare Vegetables and add to a large bowl. They will be added together",
+        "bullets": [
+          "4 medium carrots (1 pound), peeled and cut into ½-inch chunks",
+          "1 pound fingerling or baby white potatoes, scrubbed"
+        ]
+      },
+      {
+        "id": "prep-step-6",
+        "title": "Prep Step 6",
+        "mainStep": "Prepare Final part of vegetables. They will be added together",
+        "bullets": [
+          "Cut 8 ounces of asparagus into 2-inch pieces",
+          "Measure 1 cup frozen peas"
+        ]
+      },
+      {
+        "id": "prep-step-7",
+        "title": "Prep Step 7",
+        "mainStep": "Prepare Garnish",
+        "bullets": [
+          "Chop fresh mint or tarragon"
+        ]
+      }
+    ],
+    "cookingSteps": [
+      {
+        "id": "cooking-step-1",
+        "title": "Cooking Step 1",
+        "mainStep": "Heat a large Dutch oven over medium-high heat",
+        "bullets": [
+          "Add and heat 2 Tablespoons of olive oil (1 minute)",
+          "Add half of the meat and brown the meat, cook meat, turning once, and transfer to a plate (6 minutes)",
+          "Add second half of the meat and brown the meat, cook meat, turning once, and transfer to a plate (6 minutes)"
+        ]
+      },
+      {
+        "id": "cooking-step-2",
+        "title": "Cooking Step 2",
+        "mainStep": "Preheat the oven to 325°F with rack in the medium position",
+        "bullets": []
+      },
+      {
+        "id": "cooking-step-3",
+        "title": "Cooking Step 3",
+        "mainStep": "Reduce temperature to medium heat",
+        "bullets": [
+          "Add and heat another 2 Tablespoons of olive oil  (1 minute)",
+          "Add the medium bowl with the chopped onion and garlic, cooking until tender and lightly golden  (8 minutes)"
+        ]
+      },
+      {
+        "id": "cooking-step-4",
+        "title": "Cooking Step 4",
+        "mainStep": "Keep temperature at medium heat",
+        "bullets": [
+          "Add 2 Tablespoons of tomato paste and cook stirring (1 minute)",
+          "Add 3 tablespoons all-purpose flour and cook stirring until absorbed (1 minute)"
+        ]
+      },
+      {
+        "id": "cooking-step-5",
+        "title": "Cooking Step 5",
+        "mainStep": "Raise temperature to high heat",
+        "bullets": [
+          "Add 2 cups of dry red wine and bring to boil. Boil soup until wine reduces by three-quarters (4 minutes)"
+        ]
+      },
+      {
+        "id": "cooking-step-6",
+        "title": "Cooking Step 6",
+        "mainStep": "Reduce temperature to medium-high heat",
+        "bullets": [
+          "Return beef and any accumulated juices to the pot",
+          "Add 4 cups beef broth",
+          "Add small bowl with the herbs and aromatics",
+          "The liquid should cover all the meat. If it's not covering, add water",
+          "Bring to boil"
+        ]
+      },
+      {
+        "id": "cooking-step-7",
+        "title": "Cooking Step 7",
+        "mainStep": "Cover the dutch oven and transfer to preheated oven 375°F",
+        "bullets": [
+          "Bake stew without opening the oven until meat is almost tender (2 hours)"
+        ]
+      },
+      {
+        "id": "cooking-step-8",
+        "title": "Cooking Step 8",
+        "mainStep": "Remove pot from oven",
+        "bullets": [
+          "Uncover pot, and stir in carrots and potatoes",
+          "Cover pot again and return to oven. Cook stew until meat is completely tender and vegetables are cooked through (1 hour)"
+        ]
+      },
+      {
+        "id": "cooking-step-9",
+        "title": "Cooking Step 9",
+        "mainStep": "Remove from oven",
+        "bullets": [
+          "Remove and discard bay leaf and thyme sprigs.",
+          "Season with 1 teaspoon salt and pepper to taste.",
+          "Add asparagus and peas, cover, and let sit until asparagus is crisp-tender (5 minutes)"
+        ]
+      },
+      {
+        "id": "cooking-step-10",
+        "title": "Cooking Step 10",
+        "mainStep": "Serving",
+        "bullets": [
+          "Divide among bowls and garnish with chopped mint and tarragon"
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Beef stew meat, cut into 2-inch cubes",
+        "quantity": "3 pounds",
+        "category": "Meat"
+      },
+      {
+        "name": "Kosher salt",
+        "quantity": "5 teaspoons",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Freshly ground black pepper, plus more",
+        "quantity": "to taste",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Olive oil",
+        "quantity": "4 Tablespoons",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Jumbo onion, chopped",
+        "quantity": "1",
+        "category": "Produce"
+      },
+      {
+        "name": "Garlic cloves, chopped",
+        "quantity": "6",
+        "category": "Produce"
+      },
+      {
+        "name": "Tomato paste",
+        "quantity": "2 Tablespoons",
+        "category": "Produce"
+      },
+      {
+        "name": "All-purpose or gluten-free flour",
+        "quantity": "3 Tablespoons",
+        "category": "Grains"
+      },
+      {
+        "name": "Dry red wine",
+        "quantity": "2 cups",
+        "category": "Beverages"
+      },
+      {
+        "name": "Beef broth",
+        "quantity": "4 cups",
+        "category": "Meat"
+      },
+      {
+        "name": "Bay leaf",
+        "quantity": "1",
+        "category": "Pantry"
+      },
+      {
+        "name": "Fresh thyme sprigs",
+        "quantity": "2",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Silan Data Syrup",
+        "quantity": "1½ teaspoons",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Water, as needed",
+        "quantity": "1 cup",
+        "category": "Beverages"
+      },
+      {
+        "name": "4 medium carrots",
+        "quantity": "1 pound",
+        "category": "Pantry"
+      },
+      {
+        "name": "Fingerling or baby white potatoes, scrubbed",
+        "quantity": "1 pound",
+        "category": "Pantry"
+      },
+      {
+        "name": "Asparagus, cut into 2-inch pieces",
+        "quantity": "8 ounces",
+        "category": "Pantry"
+      },
+      {
+        "name": "Frozen peas",
+        "quantity": "1 cup",
+        "category": "Frozen Foods"
+      },
+      {
+        "name": "Chopped fresh mint and tarragon, for serving",
+        "quantity": "to taste",
+        "category": "Pantry"
+      }
+    ],
+    "groceryList": {
+      "Meat": [
+        "3 pounds Beef stew meat, cut into 2-inch cubes",
+        "4 cups Beef broth"
+      ],
+      "Spices & Herbs": [
+        "5 teaspoons Kosher salt",
+        "to taste Freshly ground black pepper, plus more",
+        "2 Fresh thyme sprigs"
+      ],
+      "Condiments & Sauces": [
+        "4 Tablespoons Olive oil",
+        "1½ teaspoons Silan Data Syrup"
+      ],
+      "Produce": [
+        "1 Jumbo onion, chopped",
+        "6 Garlic cloves, chopped",
+        "2 Tablespoons Tomato paste"
+      ],
+      "Grains": [
+        "3 Tablespoons All-purpose or gluten-free flour"
+      ],
+      "Beverages": [
+        "2 cups Dry red wine",
+        "1 cup Water, as needed"
+      ],
+      "Pantry": [
+        "1 Bay leaf",
+        "1 pound 4 medium carrots",
+        "1 pound Fingerling or baby white potatoes, scrubbed",
+        "8 ounces Asparagus, cut into 2-inch pieces",
+        "to taste Chopped fresh mint and tarragon, for serving"
+      ],
+      "Frozen Foods": [
+        "1 cup Frozen peas"
+      ]
+    }
+  }

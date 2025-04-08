@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Converter</title>
+    <link rel="stylesheet" href="recipe-converter.css">
+</head>
+<body>
+    <h1>Recipe Converter</h1>
+    
+    <div class="container">
+        <h2>Recipe Metadata</h2>
+        <p>Paste your recipe metadata (yields, times) in the format below:</p>
+        <textarea id="recipe-metadata" placeholder="Yields: 4 servings // Total time: 50-65 minutes // Prep time: 20 minutes // Active cooking time: 10-15 minutes // Hands-off cooking time: 20-30 minutes"></textarea>
+        
+        <div class="form-row">
+            <div class="form-group">
+                <label for="recipe-title">Recipe Title:</label>
+                <input type="text" id="recipe-title" placeholder="e.g., Miso-Caramel Pork Chops with Apples">
+            </div>
+            
+            <div class="form-group">
+                <label for="recipe-id">Recipe ID:</label>
+                <input type="text" id="recipe-id" placeholder="e.g., miso-pork">
+            </div>
+        </div>
+        
+        <div class="form-row">
+            <div class="form-group">
+                <label for="recipe-thumbnail">Thumbnail URL:</label>
+                <input type="text" id="recipe-thumbnail" placeholder="Leave empty to auto-generate from recipe ID">
+            </div>
+            
+            <div class="form-group">
+                <label for="recipe-difficulty">Difficulty:</label>
+                <select id="recipe-difficulty">
+                    <option value="Easy">Easy</option>
+                    <option value="Medium">Medium</option>
+                    <option value="Hard">Hard</option>
+                </select>
+            </div>
+        </div>
+        
+        <button id="parse-metadata" class="primary-button">Parse Metadata</button>
+        
+        <div id="metadata-preview" class="preview-box"></div>
+    </div>
+    
+    <div class="container">
+        <h2>Preparation Steps</h2>
+        <p>Enter preparation steps (numbered steps with bullet points on separate lines):</p>
+        <textarea id="prep-content" placeholder="1) Gather all ingredients and equipment (large skillet, measuring spoons, small mixing bowl, tongs, meat thermometer, cutting board, knife).&#10;&#10;2) Prepare the pork chops&#10;Pat 4 pork chops very dry with paper towels.&#10;Season pork chops all over with salt and 2 teaspoons black pepper."></textarea>
+    </div>
+    
+    <div class="container">
+        <h2>Cooking Steps</h2>
+        <p>Enter cooking steps (numbered steps with bullet points on separate lines):</p>
+        <textarea id="cooking-content" placeholder="1) Heat skillet over medium heat.&#10;Add oil and cook pork chops, flipping every 2 minutes until internal temperature reaches 135°F.&#10;&#10;2) Turn heat to medium.&#10;Add apple slices and cook until browned, then add miso mixture."></textarea>
+    </div>
+    
+    <div class="container">
+        <h2>Ingredients</h2>
+        <p>Paste your ingredient list here (one per line):</p>
+        <textarea id="ingredients-list" placeholder="* 1 (15-ounce) can black beans, drained and rinsed&#10;* 2 tablespoons olive oil&#10;* 1 bunch of cilantro, chopped&#10;* Salt and pepper"></textarea>
+        
+        <div class="form-row">
+            <div class="form-group">
+                <label for="default-category">Default Category:</label>
+                <select id="default-category">
+                    <option value="Pantry">Pantry</option>
+                    <option value="Meat">Meat</option>
+                    <option value="Seafood">Seafood</option>
+                    <option value="Produce">Produce</option>
+                    <option value="Dairy">Dairy</option>
+                    <option value="Grains">Grains</option>
+                    <option value="Spices & Herbs">Spices & Herbs</option>
+                    <option value="Frozen Foods">Frozen Foods</option>
+                    <option value="Baking">Baking</option>
+                    <option value="Canned Goods">Canned Goods</option>
+                    <option value="Condiments & Sauces">Condiments & Sauces</option>
+                    <option value="Beverages">Beverages</option>
+                </select>
+            </div>
+            
+            <div class="form-group">
+                <button id="parse-ingredients" class="primary-button">Parse Ingredients</button>
+            </div>
+        </div>
+        
+        <h3>Current Ingredients:</h3>
+        <table id="ingredients-table">
+            <thead>
+                <tr>
+                    <th>Ingredient Name</th>
+                    <th>Quantity</th>
+                    <th>Category</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody id="ingredients-tbody">
+                <!-- Ingredients will be added here -->
+            </tbody>
+        </table>
+        <button id="clear-ingredients" class="secondary-button">Clear All Ingredients</button>
+    </div>
+    
+    <div class="action-buttons">
+        <button id="convert" class="primary-button">Convert to JSON</button>
+        <button id="copy-recipe" class="secondary-button">Copy Recipe JSON</button>
+        <button id="copy-index" class="secondary-button">Copy Index JSON</button>
+    </div>
+    
+    <h3>Output:</h3>
+    <div class="output-container">
+        <div class="output-box">
+            <div class="output-label">Recipe Index Entry:</div>
+            <pre id="output-index"></pre>
+        </div>
+        <div class="output-box">
+            <div class="output-label">Complete Recipe:</div>
+            <pre id="output-recipe"></pre>
+        </div>
+    </div>
+    
+    <script src="recipe-converter.js"></script>
+</body>
+</html>

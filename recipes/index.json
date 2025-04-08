@@ -1,0 +1,91 @@
+{
+  "recipes": [
+
+    {
+    "id": "recipe-fusion-garlic-steak-bites-with-miso-butter-broccoli",
+    "title": "Recipe Fusion: Garlic Steak Bites with Miso Butter Broccoli",
+    "thumbnail": "images/recipe-fusion-garlic-steak-bites-with-miso-butter-broccoli.jpg",
+    "time": "35 minutes",
+    "difficulty": "Easy"
+    },
+  {
+    "id": "recipe-fusion-miso-caramel-pork-chops-with-apples-and-garlic-mashed-potatoes",
+    "title": "Recipe fusion: Miso-Caramel Pork Chops with Apples and Garlic Mashed Potatoes",
+    "thumbnail": "images/recipe-fusion-miso-caramel-pork-chops-with-apples-and-garlic-mashed-potatoes.jpg",
+    "time": "45 minutes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "fiesta-chili",
+    "title": "Fiesta Chili",
+    "thumbnail": "images/fiesta-chili.jpg",
+    "time": "50 - 65 minutes",
+    "difficulty": "Easy"
+  },
+
+  {
+    "id": "chicken-turmeric-soup",
+    "title": "Chicken Turmeric Soup",
+    "thumbnail": "images/chicken-turmeric-soup.jpg",
+    "time": "50-65 minutes",
+    "difficulty": "Easy"
+  },
+
+  {
+    "id": "cozy-chicken-chili",
+    "title": "Cozy Chicken Chili",
+    "thumbnail": "images/cozy-chicken-chili.jpg",
+    "time": "60 minutes",
+    "difficulty": "Easy"
+  },
+
+  {
+    "id": "beef-veggie-stew",
+    "title": "Beef & Veggie Stew",
+    "thumbnail": "images/beef-veggie-stew.jpg",
+    "time": "4 hours and 15 minutes",
+    "difficulty": "Medium"
+  },
+
+  {
+    "id": "oven-baked-sausage-cheese-pasta",
+    "title": "Oven-Baked Sausage & Cheese Pasta",
+    "thumbnail": "images/oven-baked-sausage-cheese-pasta.jpg",
+    "time": "60 minutes",
+    "difficulty": "Easy"
+  },
+
+  {
+    "id": "caramelized-eggplant-pasta",
+    "title": "Caramelized Eggplant Pasta",
+    "thumbnail": "images/caramelized-eggplant-pasta.jpg",
+    "time": "60 minutes",
+    "difficulty": "Easy"
+  },
+
+  {
+    "id": "one-pan-chicken-bites-with-potatoes",
+    "title": "One-Pan Chicken Bites with Potatoes",
+    "thumbnail": "images/one-pan-chicken-bites-with-potatoes.jpg",
+    "time": "45 minutes",
+    "difficulty": "Easy"
+  },
+
+  {
+    "id": "one-pot-coconut-chicken-and-rice",
+    "title": "One-Pot Coconut Chicken and Rice",
+    "thumbnail": "images/one-pot-coconut-chicken-and-rice.jpg",
+    "time": "60 minutes",
+    "difficulty": "Easy"
+  },
+
+  {
+    "id": "recipe-fusion-pan-seared-salmon-with-tomato-pop-couscous",
+    "title": "Recipe Fusion: Pan-Seared Salmon with Tomato Pop Couscous",
+    "thumbnail": "images/recipe-fusion-pan-seared-salmon-with-tomato-pop-couscous.jpg",
+    "time": "45 minutes",
+    "difficulty": "Easy"
+  }
+
+  ]
+}

@@ -1,0 +1,291 @@
+{
+    "id": "cozy-chicken-chili",
+    "title": "Cozy Chicken Chili",
+    "metadata": {
+      "imageUrl": "images/cozy-chicken-chili.jpg",
+      "yields": "4 servings",
+      "totalTime": "60 minutes",
+      "prepTime": "20 minutes",
+      "activeTime": "15 minutes",
+      "handsOffTime": "20 minutes"
+    },
+    "preparationSteps": [
+      {
+        "id": "prep-step-1",
+        "title": "Prep Step 1",
+        "mainStep": "Prepare the first part of the cooking. Ingredients, they will be added in stages",
+        "bullets": [
+          "Measure 2 Tablespoons of olive oil",
+          "Chop 1 large yellow onion",
+          "Remove seeds and ribs from 1 jalapeño pepper, and finely chop"
+        ]
+      },
+      {
+        "id": "prep-step-2",
+        "title": "Prep Step 2",
+        "mainStep": "Make the Seasoning Mix. Mix in a small bowl",
+        "bullets": [
+          "Mince 5 garlic cloves",
+          "1 teaspoon dried oregano",
+          "1 teaspoon ground cumin",
+          "½ teaspoon paprika or chili powder",
+          "Pinch of cayenne pepper",
+          "1 teaspoon kosher salt",
+          "Few grinds of black pepper"
+        ]
+      },
+      {
+        "id": "prep-step-3",
+        "title": "Prep Step 3",
+        "mainStep": "Prepare and gather the second part of the cooking ingredients; they will all be added together",
+        "bullets": [
+          "Measure 4 cups chicken broth",
+          "Open, rinse, and drain 2 cans of cannellini beans",
+          "Open 2 cans of diced green chiles, and keep the liquid"
+        ]
+      },
+      {
+        "id": "prep-step-4",
+        "title": "Prep Step 4",
+        "mainStep": "Prepare Final Ingredients",
+        "bullets": [
+          "Shred 2½-3 cups of chicken from a rotisserie chicken",
+          "Cut 1 lime in half",
+          "Measure 1 cup corn kernels"
+        ]
+      },
+      {
+        "id": "prep-step-5",
+        "title": "Prep Step 5",
+        "mainStep": "Gather Optional Toppings",
+        "bullets": [
+          "Chopped avocado",
+          "Pickled red onion",
+          "Grated Cheddar",
+          "Pickled jalapeños",
+          "Sour cream",
+          "Tortilla chips",
+          "Lime wedges",
+          "Chopped Cilantro"
+        ]
+      }
+    ],
+    "cookingSteps": [
+      {
+        "id": "cooking-step-1",
+        "title": "Cooking Step 1",
+        "mainStep": "Heat a large pot over medium heat",
+        "bullets": [
+          "Add and heat 2 Tablespoons of olive oil (1 minute)",
+          "Add onion and jalapeno and cook onions until golden, stirring occasionally (5 minutes)"
+        ]
+      },
+      {
+        "id": "cooking-step-2",
+        "title": "Cooking Step 2",
+        "mainStep": "Keep temperature at medium heat",
+        "bullets": [
+          "Add the seasoning mix, and cook until fragrant (30 seconds)"
+        ]
+      },
+      {
+        "id": "cooking-step-3",
+        "title": "Cooking Step 3",
+        "mainStep": "Increase heat to medium high heat",
+        "bullets": [
+          "Add the 4 cups of chicken broth, 2 cans of drained cannellini beans, and 2 cans of diced green chiles"
+        ]
+      },
+      {
+        "id": "cooking-step-4",
+        "title": "Cooking Step 4",
+        "mainStep": "Bring to a boil, then reduce to medium-low. Simmer the soup, stirring occasionally (20 minutes)",
+        "bullets": []
+      },
+      {
+        "id": "cooking-step-5",
+        "title": "Cooking Step 5",
+        "mainStep": "Turn off heat",
+        "bullets": [
+          "Use a wooden spoon to mash some beans until the broth is thicker"
+        ]
+      },
+      {
+        "id": "cooking-step-6",
+        "title": "Cooking Step 6",
+        "mainStep": "Return pot to medium heat",
+        "bullets": [
+          "Stir in the 2 1/2 cups of shredded chicken and 1 cup of frozen corn",
+          "Cook soup until heated through (3 minutes)"
+        ]
+      },
+      {
+        "id": "cooking-step-7",
+        "title": "Cooking Step 7",
+        "mainStep": "Serving",
+        "bullets": [
+          "Squeeze juice of half a lime",
+          "Taste and adjust seasonings as needed",
+          "Ladle into bowls and add desired toppings"
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Extra-virgin olive oil",
+        "quantity": "2 Tablespoons",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Large yellow onion, chopped",
+        "quantity": "1",
+        "category": "Produce"
+      },
+      {
+        "name": "Jalapeño, finely chopped",
+        "quantity": "1",
+        "category": "Pantry"
+      },
+      {
+        "name": "Garlic cloves, minced",
+        "quantity": "5",
+        "category": "Produce"
+      },
+      {
+        "name": "Dried oregano",
+        "quantity": "1 teaspoon",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Ground cumin",
+        "quantity": "1 teaspoon",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Sweet paprika or chili powder",
+        "quantity": "½ teaspoon",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Pinch of cayenne pepper",
+        "quantity": "to taste",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Of kosher salt",
+        "quantity": "1 teaspoon",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Black pepper",
+        "quantity": "to taste",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Chicken stock",
+        "quantity": "4 cups",
+        "category": "Meat"
+      },
+      {
+        "name": "Cans cannellini beans, drained and rinsed",
+        "quantity": "2 15-ounce",
+        "category": "Canned Goods"
+      },
+      {
+        "name": "Cans diced mild green chiles",
+        "quantity": "2 4-ounce",
+        "category": "Pantry"
+      },
+      {
+        "name": "Shredded rotisserie chicken",
+        "quantity": "3 cups",
+        "category": "Meat"
+      },
+      {
+        "name": "Frozen corn",
+        "quantity": "1 cup",
+        "category": "Frozen Foods"
+      },
+      {
+        "name": "Chopped avocado",
+        "quantity": "to taste",
+        "category": "Pantry"
+      },
+      {
+        "name": "Pickled red onion",
+        "quantity": "to taste",
+        "category": "Produce"
+      },
+      {
+        "name": "Grated Cheddar",
+        "quantity": "to taste",
+        "category": "Pantry"
+      },
+      {
+        "name": "Can of pickled hot jalapeños",
+        "quantity": "1",
+        "category": "Canned Goods"
+      },
+      {
+        "name": "Sour cream",
+        "quantity": "to serve",
+        "category": "Dairy"
+      },
+      {
+        "name": "Tortilla chips",
+        "quantity": "to serve",
+        "category": "Pantry"
+      },
+      {
+        "name": "Lime wedges",
+        "quantity": "to serve",
+        "category": "Produce"
+      },
+      {
+        "name": "Chopped Cilantro",
+        "quantity": "to serve",
+        "category": "Produce"
+      }
+    ],
+    "groceryList": {
+      "Condiments & Sauces": [
+        "2 Tablespoons Extra-virgin olive oil"
+      ],
+      "Produce": [
+        "1 Large yellow onion, chopped",
+        "5 Garlic cloves, minced",
+        "to taste Pickled red onion",
+        "to serve Lime wedges",
+        "to serve Chopped Cilantro"
+      ],
+      "Pantry": [
+        "1 Jalapeño, finely chopped",
+        "2 4-ounce Cans diced mild green chiles",
+        "to taste Chopped avocado",
+        "to taste Grated Cheddar",
+        "to serve Tortilla chips"
+      ],
+      "Spices & Herbs": [
+        "1 teaspoon Dried oregano",
+        "1 teaspoon Ground cumin",
+        "½ teaspoon Sweet paprika or chili powder",
+        "to taste Pinch of cayenne pepper",
+        "1 teaspoon Of kosher salt",
+        "to taste Black pepper"
+      ],
+      "Meat": [
+        "4 cups Chicken stock",
+        "3 cups Shredded rotisserie chicken"
+      ],
+      "Canned Goods": [
+        "2 15-ounce Cans cannellini beans, drained and rinsed",
+        "1 Can of pickled hot jalapeños"
+      ],
+      "Frozen Foods": [
+        "1 cup Frozen corn"
+      ],
+      "Dairy": [
+        "to serve Sour cream"
+      ]
+    }
+  }
