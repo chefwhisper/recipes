@@ -1,0 +1,235 @@
+{
+    "id": "recipe-fusion-rib-eye-steaks-with-potatoes-au-gratin",
+    "title": "Recipe Fusion: Rib Eye Steaks with Potatoes Au Gratin",
+    "metadata": {
+      "imageUrl": "images/recipe-fusion-rib-eye-steaks-with-potatoes-au-gratin.jpg",
+      "yields": "4 servings",
+      "totalTime": "45 minutes",
+      "prepTime": "15 minutes",
+      "activeTime": "30 minutes",
+      "handsOffTime": ""
+    },
+    "preparationSteps": [
+      {
+        "id": "prep-step-1",
+        "title": "Prep Step 1",
+        "mainStep": "Prepare the meat marinade. In a large zip-loc back, combine",
+        "bullets": [
+          "1 teaspoon of salt",
+          "1 teaspoon of freshly ground pepper",
+          "¼ cup of olive oil",
+          "¼ cup of balsamic vinegar",
+          "¼ cup Worcestershire sauce",
+          "2 rosemary sprigs"
+        ]
+      },
+      {
+        "id": "prep-step-2",
+        "title": "Prep Step 2",
+        "mainStep": "Marinate the meat",
+        "bullets": [
+          "Pat dry the 2 rib-eye steaks (~1.25 lbs each)",
+          "Add the steak to the bag with the marinade",
+          "Put in the fridge and marinate for at least 2 hours and up to 12 hours (we usually marinate the steaks in the morning and cook for dinner)",
+          "Remove the steak from the fridge and bring to room temperature"
+        ]
+      },
+      {
+        "id": "prep-step-3",
+        "title": "Prep Step 3",
+        "mainStep": "Prepare the potatoes",
+        "bullets": [
+          "Peel the 6-10 potatoes (3 pounds) and slice into ¼-inch slices. Set aside in a large bowl",
+          "Layer potato slices in a 10- or 12-inch ovenproof skillet, seasoning each layer with salt and pepper as you go. (5 minutes)",
+          "Dot the top with 2 Tablespoons butter.",
+          "Pour in 2 to 3 cups of heavy cream (it should come about ¾ of the way to the top, the amount will depend on the size of your skillet)."
+        ]
+      },
+      {
+        "id": "prep-step-4",
+        "title": "Prep Step 4",
+        "mainStep": "Gather and prepare the other ingredients for the potatoes",
+        "bullets": [
+          "Grate ¼ cup Gruyère cheese if not already grated and place in a small bowl. Set aside",
+          "A pinch of nutmeg"
+        ]
+      }
+    ],
+    "cookingSteps": [
+      {
+        "id": "cooking-step-1",
+        "title": "Cooking Step 1",
+        "mainStep": "Remove the meat from the fridge and bring to room temperature, about 30 minutes before start cooking",
+        "bullets": [
+          "Pat the steak dry with a paper towel"
+        ]
+      },
+      {
+        "id": "cooking-step-2",
+        "title": "Cooking Step 2",
+        "mainStep": "Heat oven to 350 degrees",
+        "bullets": []
+      },
+      {
+        "id": "cooking-step-3",
+        "title": "Cooking Step 3",
+        "mainStep": "Heat the oven-proof 12-10 inch skillet with the potatoes over medium-high heat",
+        "bullets": [
+          "Bring the potatoes to a boil (3 minutes)"
+        ]
+      },
+      {
+        "id": "cooking-step-4",
+        "title": "Cooking Step 4",
+        "mainStep": "Reduce to low heat",
+        "bullets": [
+          "Cook potatoes, uncovered, until the liquid has reduced by about half. (10 minutes)"
+        ]
+      },
+      {
+        "id": "cooking-step-5",
+        "title": "Cooking Step 5",
+        "mainStep": "Transfer the potato skillet to the preheated 350o degree oven",
+        "bullets": [
+          "Bake potatoes until fork-tender and the top is nicely browned. (15 minutes)"
+        ]
+      },
+      {
+        "id": "cooking-step-6",
+        "title": "Cooking Step 6",
+        "mainStep": "Heat a large cast iron skillet over medium-high heat",
+        "bullets": [
+          "Add and heat 2 Tablespoons of canola oil, enough to have a thin layer of oil (2 minutes)",
+          "Add the steaks to the cast iron and cook steaks until the first side is brown and seared (3 minutes)",
+          "Flip the steaks and cook steaks the other side until browned and seared (3 minutes)"
+        ]
+      },
+      {
+        "id": "cooking-step-7",
+        "title": "Cooking Step 7",
+        "mainStep": "Put the cast iron skillet with the steak in the preheated 350 degree oven",
+        "bullets": [
+          "The time in the oven will depend on the thickness of your steak and the doneness level. Cook steak in the oven. (5 minutes)",
+          "At 5 minutes, check the temperature",
+          "For medium rare (our recommended doneness), we remove the steak when the temperature is 127o",
+          "For medium, remove the steak at 135o",
+          "For medium-well, remove the steak at 145o",
+          "For well done (it will be a bit dry), remove at 155o"
+        ]
+      },
+      {
+        "id": "cooking-step-8",
+        "title": "Cooking Step 8",
+        "mainStep": "Steak finish",
+        "bullets": [
+          "When the steaks reach the desired temperature, remove them from the skillet and let them rest on a cutting board"
+        ]
+      },
+      {
+        "id": "cooking-step-9",
+        "title": "Cooking Step 9",
+        "mainStep": "Potatoes finish",
+        "bullets": [
+          "When the bake potato's 15-minute timer goes off, check if the potatoes are fork tender and the top is nicely browned; if not, place it back for 2-3 minutes more",
+          "Remove from oven, top with ¼ cup grated cheese, and return to the oven. Cook potatoes until the cheese is melty and golden brown. (3-5 minutes)",
+          "Remove from oven, sprinkle with a pinch of nutmeg and serve"
+        ]
+      },
+      {
+        "id": "cooking-step-10",
+        "title": "Cooking Step 10",
+        "mainStep": "Serving",
+        "bullets": [
+          "Slice the steaks, and serve with the potato gratin"
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Of salt",
+        "quantity": "1 teaspoon",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Of freshly ground pepper",
+        "quantity": "1 teaspoon",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Of olive oil",
+        "quantity": "¼ cup",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Of balsamic vinegar",
+        "quantity": "¼ cup",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Worcestershire sauce",
+        "quantity": "¼ cup",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Rosemary sprigs",
+        "quantity": "2",
+        "category": "Spices & Herbs"
+      },
+      {
+        "name": "Rib-eye steaks",
+        "quantity": "2 (~1.25 lbs each)",
+        "category": "Meat"
+      },
+      {
+        "name": "Yukon gold potatoes",
+        "quantity": "6-10 (3 pounds)",
+        "category": "Produce"
+      },
+      {
+        "name": "Butter",
+        "quantity": "2 Tablespoons",
+        "category": "Dairy"
+      },
+      {
+        "name": "Heavy cream",
+        "quantity": "3 cups",
+        "category": "Dairy"
+      },
+      {
+        "name": "Gruyère cheese or Parmesan, grated",
+        "quantity": "¼ cup",
+        "category": "Dairy"
+      },
+      {
+        "name": "Pinch of nutmeg",
+        "quantity": "to taste",
+        "category": "Pantry"
+      }
+    ],
+    "groceryList": {
+      "Spices & Herbs": [
+        "1 teaspoon Of salt",
+        "1 teaspoon Of freshly ground pepper",
+        "2 Rosemary sprigs"
+      ],
+      "Condiments & Sauces": [
+        "¼ cup Of olive oil",
+        "¼ cup Of balsamic vinegar",
+        "¼ cup Worcestershire sauce"
+      ],
+      "Meat": [
+        "2 (~1.25 lbs each) Rib-eye steaks"
+      ],
+      "Produce": [
+        "6-10 (3 pounds) Yukon gold potatoes"
+      ],
+      "Dairy": [
+        "2 Tablespoons Butter",
+        "3 cups Heavy cream",
+        "¼ cup Gruyère cheese or Parmesan, grated"
+      ],
+      "Pantry": [
+        "to taste Pinch of nutmeg"
+      ]
+    }
+  }
