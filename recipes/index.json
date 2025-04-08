@@ -85,6 +85,14 @@
     "thumbnail": "images/recipe-fusion-pan-seared-salmon-with-tomato-pop-couscous.jpg",
     "time": "45 minutes",
     "difficulty": "Easy"
+  },
+
+  {
+    "id": "recipe-fusion-rib-eye-steaks-with-potatoes-au-gratin",
+    "title": "Recipe Fusion: Rib Eye Steaks with Potatoes Au Gratin",
+    "thumbnail": "images/recipe-fusion-rib-eye-steaks-with-potatoes-au-gratin.jpg",
+    "time": "45 minutes",
+    "difficulty": "Easy"
   }
 
   ]
